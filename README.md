@@ -14,6 +14,6 @@ $ ./multiquery vm_list.csv "command to be executed"
 
 #### multicopy.sh
 ```sh
-$ ./multicopy vm_list.csv @:~/remoteFiles localFolder
-$ ./multicopy vm_list.csv localFiles @:~/remoteFolder
+$ ./multicopy vm_list.csv @remoteFiles localFolder
+$ ./multicopy vm_list.csv localFiles @remoteFolder
 ```
