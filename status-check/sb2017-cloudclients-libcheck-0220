@@ -1,0 +1,1870 @@
+ssh into remote server client-02 with ip 13.90.145.184 and execute command cd ~/superbowl; git pull origin sb2017; sudo service cron status; crontab -l; iperf -v; curl -V; traceroute --version
+From https://github.com/ephemeral2eternity/superbowl
+ * branch            sb2017     -> FETCH_HEAD
+   59c34bf..815dcb6  sb2017     -> origin/sb2017
+Updating 59c34bf..815dcb6
+Fast-forward
+ cron_sb17_cloudclients | 2 +-
+ cron_sb17_planetlab    | 4 ++--
+ hosts.py               | 4 ++++
+ 3 files changed, 7 insertions(+), 3 deletions(-)
+cron start/running, process 1110
+no crontab for 18757
+iperf version 2.0.5 (08 Jul 2010) pthreads
+curl 7.35.0 (x86_64-pc-linux-gnu) libcurl/7.35.0 OpenSSL/1.0.1f zlib/1.2.8 libidn/1.28 librtmp/2.3
+Protocols: dict file ftp ftps gopher http https imap imaps ldap ldaps pop3 pop3s rtmp rtsp smtp smtps telnet tftp 
+Features: AsynchDNS GSS-Negotiate IDN IPv6 Largefile NTLM NTLM_WB SSL libz TLS-SRP 
+traceroute (GNU inetutils) 1.9.2
+Copyright (C) 2013 Free Software Foundation, Inc.
+License GPLv3+: GNU GPL version 3 or later <http://gnu.org/licenses/gpl.html>.
+This is free software: you are free to change and redistribute it.
+There is NO WARRANTY, to the extent permitted by law.
+
+Written by Elian Gidoni.
+ssh into remote server client-12 with ip 13.90.148.79 and execute command cd ~/superbowl; git pull origin sb2017; sudo service cron status; crontab -l; iperf -v; curl -V; traceroute --version
+From https://github.com/ephemeral2eternity/superbowl
+ * branch            sb2017     -> FETCH_HEAD
+   59c34bf..815dcb6  sb2017     -> origin/sb2017
+Updating 59c34bf..815dcb6
+Fast-forward
+ cron_sb17_cloudclients | 2 +-
+ cron_sb17_planetlab    | 4 ++--
+ hosts.py               | 4 ++++
+ 3 files changed, 7 insertions(+), 3 deletions(-)
+cron start/running, process 1180
+no crontab for 18757
+iperf version 2.0.5 (08 Jul 2010) pthreads
+curl 7.35.0 (x86_64-pc-linux-gnu) libcurl/7.35.0 OpenSSL/1.0.1f zlib/1.2.8 libidn/1.28 librtmp/2.3
+Protocols: dict file ftp ftps gopher http https imap imaps ldap ldaps pop3 pop3s rtmp rtsp smtp smtps telnet tftp 
+Features: AsynchDNS GSS-Negotiate IDN IPv6 Largefile NTLM NTLM_WB SSL libz TLS-SRP 
+traceroute (GNU inetutils) 1.9.2
+Copyright (C) 2013 Free Software Foundation, Inc.
+License GPLv3+: GNU GPL version 3 or later <http://gnu.org/licenses/gpl.html>.
+This is free software: you are free to change and redistribute it.
+There is NO WARRANTY, to the extent permitted by law.
+
+Written by Elian Gidoni.
+ssh into remote server client-22 with ip 13.90.147.61 and execute command cd ~/superbowl; git pull origin sb2017; sudo service cron status; crontab -l; iperf -v; curl -V; traceroute --version
+From https://github.com/ephemeral2eternity/superbowl
+ * branch            sb2017     -> FETCH_HEAD
+   59c34bf..815dcb6  sb2017     -> origin/sb2017
+Updating 59c34bf..815dcb6
+Fast-forward
+ cron_sb17_cloudclients | 2 +-
+ cron_sb17_planetlab    | 4 ++--
+ hosts.py               | 4 ++++
+ 3 files changed, 7 insertions(+), 3 deletions(-)
+cron start/running, process 1188
+no crontab for 18757
+iperf version 2.0.5 (08 Jul 2010) pthreads
+curl 7.35.0 (x86_64-pc-linux-gnu) libcurl/7.35.0 OpenSSL/1.0.1f zlib/1.2.8 libidn/1.28 librtmp/2.3
+Protocols: dict file ftp ftps gopher http https imap imaps ldap ldaps pop3 pop3s rtmp rtsp smtp smtps telnet tftp 
+Features: AsynchDNS GSS-Negotiate IDN IPv6 Largefile NTLM NTLM_WB SSL libz TLS-SRP 
+traceroute (GNU inetutils) 1.9.2
+Copyright (C) 2013 Free Software Foundation, Inc.
+License GPLv3+: GNU GPL version 3 or later <http://gnu.org/licenses/gpl.html>.
+This is free software: you are free to change and redistribute it.
+There is NO WARRANTY, to the extent permitted by law.
+
+Written by Elian Gidoni.
+ssh into remote server client-32 with ip 13.90.145.80 and execute command cd ~/superbowl; git pull origin sb2017; sudo service cron status; crontab -l; iperf -v; curl -V; traceroute --version
+From https://github.com/ephemeral2eternity/superbowl
+ * branch            sb2017     -> FETCH_HEAD
+   59c34bf..815dcb6  sb2017     -> origin/sb2017
+Updating 59c34bf..815dcb6
+Fast-forward
+ cron_sb17_cloudclients | 2 +-
+ cron_sb17_planetlab    | 4 ++--
+ hosts.py               | 4 ++++
+ 3 files changed, 7 insertions(+), 3 deletions(-)
+cron start/running, process 1182
+no crontab for 18757
+iperf version 2.0.5 (08 Jul 2010) pthreads
+curl 7.35.0 (x86_64-pc-linux-gnu) libcurl/7.35.0 OpenSSL/1.0.1f zlib/1.2.8 libidn/1.28 librtmp/2.3
+Protocols: dict file ftp ftps gopher http https imap imaps ldap ldaps pop3 pop3s rtmp rtsp smtp smtps telnet tftp 
+Features: AsynchDNS GSS-Negotiate IDN IPv6 Largefile NTLM NTLM_WB SSL libz TLS-SRP 
+traceroute (GNU inetutils) 1.9.2
+Copyright (C) 2013 Free Software Foundation, Inc.
+License GPLv3+: GNU GPL version 3 or later <http://gnu.org/licenses/gpl.html>.
+This is free software: you are free to change and redistribute it.
+There is NO WARRANTY, to the extent permitted by law.
+
+Written by Elian Gidoni.
+ssh into remote server client-42 with ip 13.90.145.39 and execute command cd ~/superbowl; git pull origin sb2017; sudo service cron status; crontab -l; iperf -v; curl -V; traceroute --version
+From https://github.com/ephemeral2eternity/superbowl
+ * branch            sb2017     -> FETCH_HEAD
+   59c34bf..815dcb6  sb2017     -> origin/sb2017
+Updating 59c34bf..815dcb6
+Fast-forward
+ cron_sb17_cloudclients | 2 +-
+ cron_sb17_planetlab    | 4 ++--
+ hosts.py               | 4 ++++
+ 3 files changed, 7 insertions(+), 3 deletions(-)
+cron start/running, process 1109
+no crontab for 18757
+iperf version 2.0.5 (08 Jul 2010) pthreads
+curl 7.35.0 (x86_64-pc-linux-gnu) libcurl/7.35.0 OpenSSL/1.0.1f zlib/1.2.8 libidn/1.28 librtmp/2.3
+Protocols: dict file ftp ftps gopher http https imap imaps ldap ldaps pop3 pop3s rtmp rtsp smtp smtps telnet tftp 
+Features: AsynchDNS GSS-Negotiate IDN IPv6 Largefile NTLM NTLM_WB SSL libz TLS-SRP 
+traceroute (GNU inetutils) 1.9.2
+Copyright (C) 2013 Free Software Foundation, Inc.
+License GPLv3+: GNU GPL version 3 or later <http://gnu.org/licenses/gpl.html>.
+This is free software: you are free to change and redistribute it.
+There is NO WARRANTY, to the extent permitted by law.
+
+Written by Elian Gidoni.
+ssh into remote server client-52 with ip 13.90.148.181 and execute command cd ~/superbowl; git pull origin sb2017; sudo service cron status; crontab -l; iperf -v; curl -V; traceroute --version
+From https://github.com/ephemeral2eternity/superbowl
+ * branch            sb2017     -> FETCH_HEAD
+   59c34bf..815dcb6  sb2017     -> origin/sb2017
+Updating 59c34bf..815dcb6
+Fast-forward
+ cron_sb17_cloudclients | 2 +-
+ cron_sb17_planetlab    | 4 ++--
+ hosts.py               | 4 ++++
+ 3 files changed, 7 insertions(+), 3 deletions(-)
+cron start/running, process 1168
+no crontab for 18757
+iperf version 2.0.5 (08 Jul 2010) pthreads
+curl 7.35.0 (x86_64-pc-linux-gnu) libcurl/7.35.0 OpenSSL/1.0.1f zlib/1.2.8 libidn/1.28 librtmp/2.3
+Protocols: dict file ftp ftps gopher http https imap imaps ldap ldaps pop3 pop3s rtmp rtsp smtp smtps telnet tftp 
+Features: AsynchDNS GSS-Negotiate IDN IPv6 Largefile NTLM NTLM_WB SSL libz TLS-SRP 
+traceroute (GNU inetutils) 1.9.2
+Copyright (C) 2013 Free Software Foundation, Inc.
+License GPLv3+: GNU GPL version 3 or later <http://gnu.org/licenses/gpl.html>.
+This is free software: you are free to change and redistribute it.
+There is NO WARRANTY, to the extent permitted by law.
+
+Written by Elian Gidoni.
+ssh into remote server client-62 with ip 13.90.147.92 and execute command cd ~/superbowl; git pull origin sb2017; sudo service cron status; crontab -l; iperf -v; curl -V; traceroute --version
+From https://github.com/ephemeral2eternity/superbowl
+ * branch            sb2017     -> FETCH_HEAD
+   59c34bf..815dcb6  sb2017     -> origin/sb2017
+Updating 59c34bf..815dcb6
+Fast-forward
+ cron_sb17_cloudclients | 2 +-
+ cron_sb17_planetlab    | 4 ++--
+ hosts.py               | 4 ++++
+ 3 files changed, 7 insertions(+), 3 deletions(-)
+cron start/running, process 1172
+no crontab for 18757
+iperf version 2.0.5 (08 Jul 2010) pthreads
+curl 7.35.0 (x86_64-pc-linux-gnu) libcurl/7.35.0 OpenSSL/1.0.1f zlib/1.2.8 libidn/1.28 librtmp/2.3
+Protocols: dict file ftp ftps gopher http https imap imaps ldap ldaps pop3 pop3s rtmp rtsp smtp smtps telnet tftp 
+Features: AsynchDNS GSS-Negotiate IDN IPv6 Largefile NTLM NTLM_WB SSL libz TLS-SRP 
+traceroute (GNU inetutils) 1.9.2
+Copyright (C) 2013 Free Software Foundation, Inc.
+License GPLv3+: GNU GPL version 3 or later <http://gnu.org/licenses/gpl.html>.
+This is free software: you are free to change and redistribute it.
+There is NO WARRANTY, to the extent permitted by law.
+
+Written by Elian Gidoni.
+ssh into remote server client-72 with ip 13.90.146.25 and execute command cd ~/superbowl; git pull origin sb2017; sudo service cron status; crontab -l; iperf -v; curl -V; traceroute --version
+From https://github.com/ephemeral2eternity/superbowl
+ * branch            sb2017     -> FETCH_HEAD
+   59c34bf..815dcb6  sb2017     -> origin/sb2017
+Updating 59c34bf..815dcb6
+Fast-forward
+ cron_sb17_cloudclients | 2 +-
+ cron_sb17_planetlab    | 4 ++--
+ hosts.py               | 4 ++++
+ 3 files changed, 7 insertions(+), 3 deletions(-)
+cron start/running, process 1179
+no crontab for 18757
+iperf version 2.0.5 (08 Jul 2010) pthreads
+curl 7.35.0 (x86_64-pc-linux-gnu) libcurl/7.35.0 OpenSSL/1.0.1f zlib/1.2.8 libidn/1.28 librtmp/2.3
+Protocols: dict file ftp ftps gopher http https imap imaps ldap ldaps pop3 pop3s rtmp rtsp smtp smtps telnet tftp 
+Features: AsynchDNS GSS-Negotiate IDN IPv6 Largefile NTLM NTLM_WB SSL libz TLS-SRP 
+traceroute (GNU inetutils) 1.9.2
+Copyright (C) 2013 Free Software Foundation, Inc.
+License GPLv3+: GNU GPL version 3 or later <http://gnu.org/licenses/gpl.html>.
+This is free software: you are free to change and redistribute it.
+There is NO WARRANTY, to the extent permitted by law.
+
+Written by Elian Gidoni.
+ssh into remote server client-82 with ip 13.90.146.191 and execute command cd ~/superbowl; git pull origin sb2017; sudo service cron status; crontab -l; iperf -v; curl -V; traceroute --version
+From https://github.com/ephemeral2eternity/superbowl
+ * branch            sb2017     -> FETCH_HEAD
+   59c34bf..815dcb6  sb2017     -> origin/sb2017
+Updating 59c34bf..815dcb6
+Fast-forward
+ cron_sb17_cloudclients | 2 +-
+ cron_sb17_planetlab    | 4 ++--
+ hosts.py               | 4 ++++
+ 3 files changed, 7 insertions(+), 3 deletions(-)
+cron start/running, process 1185
+no crontab for 18757
+iperf version 2.0.5 (08 Jul 2010) pthreads
+curl 7.35.0 (x86_64-pc-linux-gnu) libcurl/7.35.0 OpenSSL/1.0.1f zlib/1.2.8 libidn/1.28 librtmp/2.3
+Protocols: dict file ftp ftps gopher http https imap imaps ldap ldaps pop3 pop3s rtmp rtsp smtp smtps telnet tftp 
+Features: AsynchDNS GSS-Negotiate IDN IPv6 Largefile NTLM NTLM_WB SSL libz TLS-SRP 
+traceroute (GNU inetutils) 1.9.2
+Copyright (C) 2013 Free Software Foundation, Inc.
+License GPLv3+: GNU GPL version 3 or later <http://gnu.org/licenses/gpl.html>.
+This is free software: you are free to change and redistribute it.
+There is NO WARRANTY, to the extent permitted by law.
+
+Written by Elian Gidoni.
+ssh into remote server client-92 with ip 13.90.147.35 and execute command cd ~/superbowl; git pull origin sb2017; sudo service cron status; crontab -l; iperf -v; curl -V; traceroute --version
+From https://github.com/ephemeral2eternity/superbowl
+ * branch            sb2017     -> FETCH_HEAD
+   59c34bf..815dcb6  sb2017     -> origin/sb2017
+Updating 59c34bf..815dcb6
+Fast-forward
+ cron_sb17_cloudclients | 2 +-
+ cron_sb17_planetlab    | 4 ++--
+ hosts.py               | 4 ++++
+ 3 files changed, 7 insertions(+), 3 deletions(-)
+cron start/running, process 1151
+no crontab for 18757
+iperf version 2.0.5 (08 Jul 2010) pthreads
+curl 7.35.0 (x86_64-pc-linux-gnu) libcurl/7.35.0 OpenSSL/1.0.1f zlib/1.2.8 libidn/1.28 librtmp/2.3
+Protocols: dict file ftp ftps gopher http https imap imaps ldap ldaps pop3 pop3s rtmp rtsp smtp smtps telnet tftp 
+Features: AsynchDNS GSS-Negotiate IDN IPv6 Largefile NTLM NTLM_WB SSL libz TLS-SRP 
+traceroute (GNU inetutils) 1.9.2
+Copyright (C) 2013 Free Software Foundation, Inc.
+License GPLv3+: GNU GPL version 3 or later <http://gnu.org/licenses/gpl.html>.
+This is free software: you are free to change and redistribute it.
+There is NO WARRANTY, to the extent permitted by law.
+
+Written by Elian Gidoni.
+ssh into remote server client-03 with ip 52.184.186.33 and execute command cd ~/superbowl; git pull origin sb2017; sudo service cron status; crontab -l; iperf -v; curl -V; traceroute --version
+From https://github.com/ephemeral2eternity/superbowl
+ * branch            sb2017     -> FETCH_HEAD
+   59c34bf..815dcb6  sb2017     -> origin/sb2017
+Updating 59c34bf..815dcb6
+Fast-forward
+ cron_sb17_cloudclients | 2 +-
+ cron_sb17_planetlab    | 4 ++--
+ hosts.py               | 4 ++++
+ 3 files changed, 7 insertions(+), 3 deletions(-)
+cron start/running, process 1176
+no crontab for 18757
+iperf version 2.0.5 (08 Jul 2010) pthreads
+curl 7.35.0 (x86_64-pc-linux-gnu) libcurl/7.35.0 OpenSSL/1.0.1f zlib/1.2.8 libidn/1.28 librtmp/2.3
+Protocols: dict file ftp ftps gopher http https imap imaps ldap ldaps pop3 pop3s rtmp rtsp smtp smtps telnet tftp 
+Features: AsynchDNS GSS-Negotiate IDN IPv6 Largefile NTLM NTLM_WB SSL libz TLS-SRP 
+traceroute (GNU inetutils) 1.9.2
+Copyright (C) 2013 Free Software Foundation, Inc.
+License GPLv3+: GNU GPL version 3 or later <http://gnu.org/licenses/gpl.html>.
+This is free software: you are free to change and redistribute it.
+There is NO WARRANTY, to the extent permitted by law.
+
+Written by Elian Gidoni.
+ssh into remote server client-13 with ip 52.184.186.39 and execute command cd ~/superbowl; git pull origin sb2017; sudo service cron status; crontab -l; iperf -v; curl -V; traceroute --version
+From https://github.com/ephemeral2eternity/superbowl
+ * branch            sb2017     -> FETCH_HEAD
+   59c34bf..815dcb6  sb2017     -> origin/sb2017
+Updating 59c34bf..815dcb6
+Fast-forward
+ cron_sb17_cloudclients | 2 +-
+ cron_sb17_planetlab    | 4 ++--
+ hosts.py               | 4 ++++
+ 3 files changed, 7 insertions(+), 3 deletions(-)
+cron start/running, process 1162
+no crontab for 18757
+iperf version 2.0.5 (08 Jul 2010) pthreads
+curl 7.35.0 (x86_64-pc-linux-gnu) libcurl/7.35.0 OpenSSL/1.0.1f zlib/1.2.8 libidn/1.28 librtmp/2.3
+Protocols: dict file ftp ftps gopher http https imap imaps ldap ldaps pop3 pop3s rtmp rtsp smtp smtps telnet tftp 
+Features: AsynchDNS GSS-Negotiate IDN IPv6 Largefile NTLM NTLM_WB SSL libz TLS-SRP 
+traceroute (GNU inetutils) 1.9.2
+Copyright (C) 2013 Free Software Foundation, Inc.
+License GPLv3+: GNU GPL version 3 or later <http://gnu.org/licenses/gpl.html>.
+This is free software: you are free to change and redistribute it.
+There is NO WARRANTY, to the extent permitted by law.
+
+Written by Elian Gidoni.
+ssh into remote server client-23 with ip 52.184.178.44 and execute command cd ~/superbowl; git pull origin sb2017; sudo service cron status; crontab -l; iperf -v; curl -V; traceroute --version
+From https://github.com/ephemeral2eternity/superbowl
+ * branch            sb2017     -> FETCH_HEAD
+   59c34bf..815dcb6  sb2017     -> origin/sb2017
+Updating 59c34bf..815dcb6
+Fast-forward
+ cron_sb17_cloudclients | 2 +-
+ cron_sb17_planetlab    | 4 ++--
+ hosts.py               | 4 ++++
+ 3 files changed, 7 insertions(+), 3 deletions(-)
+cron start/running, process 1168
+no crontab for 18757
+iperf version 2.0.5 (08 Jul 2010) pthreads
+curl 7.35.0 (x86_64-pc-linux-gnu) libcurl/7.35.0 OpenSSL/1.0.1f zlib/1.2.8 libidn/1.28 librtmp/2.3
+Protocols: dict file ftp ftps gopher http https imap imaps ldap ldaps pop3 pop3s rtmp rtsp smtp smtps telnet tftp 
+Features: AsynchDNS GSS-Negotiate IDN IPv6 Largefile NTLM NTLM_WB SSL libz TLS-SRP 
+traceroute (GNU inetutils) 1.9.2
+Copyright (C) 2013 Free Software Foundation, Inc.
+License GPLv3+: GNU GPL version 3 or later <http://gnu.org/licenses/gpl.html>.
+This is free software: you are free to change and redistribute it.
+There is NO WARRANTY, to the extent permitted by law.
+
+Written by Elian Gidoni.
+ssh into remote server client-33 with ip 52.184.176.200 and execute command cd ~/superbowl; git pull origin sb2017; sudo service cron status; crontab -l; iperf -v; curl -V; traceroute --version
+bash: line 0: cd: /home/18757/superbowl: No such file or directory
+bash: git: command not found
+cron start/running, process 1182
+no crontab for 18757
+bash: iperf: command not found
+curl 7.35.0 (x86_64-pc-linux-gnu) libcurl/7.35.0 OpenSSL/1.0.1f zlib/1.2.8 libidn/1.28 librtmp/2.3
+Protocols: dict file ftp ftps gopher http https imap imaps ldap ldaps pop3 pop3s rtmp rtsp smtp smtps telnet tftp 
+Features: AsynchDNS GSS-Negotiate IDN IPv6 Largefile NTLM NTLM_WB SSL libz TLS-SRP 
+bash: traceroute: command not found
+ssh into remote server client-43 with ip 52.184.182.190 and execute command cd ~/superbowl; git pull origin sb2017; sudo service cron status; crontab -l; iperf -v; curl -V; traceroute --version
+bash: line 0: cd: /home/18757/superbowl: No such file or directory
+bash: git: command not found
+cron start/running, process 1168
+no crontab for 18757
+bash: iperf: command not found
+curl 7.35.0 (x86_64-pc-linux-gnu) libcurl/7.35.0 OpenSSL/1.0.1f zlib/1.2.8 libidn/1.28 librtmp/2.3
+Protocols: dict file ftp ftps gopher http https imap imaps ldap ldaps pop3 pop3s rtmp rtsp smtp smtps telnet tftp 
+Features: AsynchDNS GSS-Negotiate IDN IPv6 Largefile NTLM NTLM_WB SSL libz TLS-SRP 
+bash: traceroute: command not found
+ssh into remote server client-53 with ip 52.184.181.30 and execute command cd ~/superbowl; git pull origin sb2017; sudo service cron status; crontab -l; iperf -v; curl -V; traceroute --version
+From https://github.com/ephemeral2eternity/superbowl
+ * branch            sb2017     -> FETCH_HEAD
+   59c34bf..815dcb6  sb2017     -> origin/sb2017
+Updating 59c34bf..815dcb6
+Fast-forward
+ cron_sb17_cloudclients | 2 +-
+ cron_sb17_planetlab    | 4 ++--
+ hosts.py               | 4 ++++
+ 3 files changed, 7 insertions(+), 3 deletions(-)
+cron start/running, process 1157
+no crontab for 18757
+iperf version 2.0.5 (08 Jul 2010) pthreads
+curl 7.35.0 (x86_64-pc-linux-gnu) libcurl/7.35.0 OpenSSL/1.0.1f zlib/1.2.8 libidn/1.28 librtmp/2.3
+Protocols: dict file ftp ftps gopher http https imap imaps ldap ldaps pop3 pop3s rtmp rtsp smtp smtps telnet tftp 
+Features: AsynchDNS GSS-Negotiate IDN IPv6 Largefile NTLM NTLM_WB SSL libz TLS-SRP 
+traceroute (GNU inetutils) 1.9.2
+Copyright (C) 2013 Free Software Foundation, Inc.
+License GPLv3+: GNU GPL version 3 or later <http://gnu.org/licenses/gpl.html>.
+This is free software: you are free to change and redistribute it.
+There is NO WARRANTY, to the extent permitted by law.
+
+Written by Elian Gidoni.
+ssh into remote server client-63 with ip 52.184.183.215 and execute command cd ~/superbowl; git pull origin sb2017; sudo service cron status; crontab -l; iperf -v; curl -V; traceroute --version
+From https://github.com/ephemeral2eternity/superbowl
+ * branch            sb2017     -> FETCH_HEAD
+   59c34bf..815dcb6  sb2017     -> origin/sb2017
+Updating 59c34bf..815dcb6
+Fast-forward
+ cron_sb17_cloudclients | 2 +-
+ cron_sb17_planetlab    | 4 ++--
+ hosts.py               | 4 ++++
+ 3 files changed, 7 insertions(+), 3 deletions(-)
+cron start/running, process 1161
+no crontab for 18757
+iperf version 2.0.5 (08 Jul 2010) pthreads
+curl 7.35.0 (x86_64-pc-linux-gnu) libcurl/7.35.0 OpenSSL/1.0.1f zlib/1.2.8 libidn/1.28 librtmp/2.3
+Protocols: dict file ftp ftps gopher http https imap imaps ldap ldaps pop3 pop3s rtmp rtsp smtp smtps telnet tftp 
+Features: AsynchDNS GSS-Negotiate IDN IPv6 Largefile NTLM NTLM_WB SSL libz TLS-SRP 
+traceroute (GNU inetutils) 1.9.2
+Copyright (C) 2013 Free Software Foundation, Inc.
+License GPLv3+: GNU GPL version 3 or later <http://gnu.org/licenses/gpl.html>.
+This is free software: you are free to change and redistribute it.
+There is NO WARRANTY, to the extent permitted by law.
+
+Written by Elian Gidoni.
+ssh into remote server client-73 with ip 52.184.177.54 and execute command cd ~/superbowl; git pull origin sb2017; sudo service cron status; crontab -l; iperf -v; curl -V; traceroute --version
+From https://github.com/ephemeral2eternity/superbowl
+ * branch            sb2017     -> FETCH_HEAD
+   59c34bf..815dcb6  sb2017     -> origin/sb2017
+Updating 59c34bf..815dcb6
+Fast-forward
+ cron_sb17_cloudclients | 2 +-
+ cron_sb17_planetlab    | 4 ++--
+ hosts.py               | 4 ++++
+ 3 files changed, 7 insertions(+), 3 deletions(-)
+cron start/running, process 1164
+no crontab for 18757
+iperf version 2.0.5 (08 Jul 2010) pthreads
+curl 7.35.0 (x86_64-pc-linux-gnu) libcurl/7.35.0 OpenSSL/1.0.1f zlib/1.2.8 libidn/1.28 librtmp/2.3
+Protocols: dict file ftp ftps gopher http https imap imaps ldap ldaps pop3 pop3s rtmp rtsp smtp smtps telnet tftp 
+Features: AsynchDNS GSS-Negotiate IDN IPv6 Largefile NTLM NTLM_WB SSL libz TLS-SRP 
+traceroute (GNU inetutils) 1.9.2
+Copyright (C) 2013 Free Software Foundation, Inc.
+License GPLv3+: GNU GPL version 3 or later <http://gnu.org/licenses/gpl.html>.
+This is free software: you are free to change and redistribute it.
+There is NO WARRANTY, to the extent permitted by law.
+
+Written by Elian Gidoni.
+ssh into remote server client-83 with ip 52.184.190.246 and execute command cd ~/superbowl; git pull origin sb2017; sudo service cron status; crontab -l; iperf -v; curl -V; traceroute --version
+From https://github.com/ephemeral2eternity/superbowl
+ * branch            sb2017     -> FETCH_HEAD
+   59c34bf..815dcb6  sb2017     -> origin/sb2017
+Updating 59c34bf..815dcb6
+Fast-forward
+ cron_sb17_cloudclients | 2 +-
+ cron_sb17_planetlab    | 4 ++--
+ hosts.py               | 4 ++++
+ 3 files changed, 7 insertions(+), 3 deletions(-)
+cron start/running, process 1141
+no crontab for 18757
+iperf version 2.0.5 (08 Jul 2010) pthreads
+curl 7.35.0 (x86_64-pc-linux-gnu) libcurl/7.35.0 OpenSSL/1.0.1f zlib/1.2.8 libidn/1.28 librtmp/2.3
+Protocols: dict file ftp ftps gopher http https imap imaps ldap ldaps pop3 pop3s rtmp rtsp smtp smtps telnet tftp 
+Features: AsynchDNS GSS-Negotiate IDN IPv6 Largefile NTLM NTLM_WB SSL libz TLS-SRP 
+traceroute (GNU inetutils) 1.9.2
+Copyright (C) 2013 Free Software Foundation, Inc.
+License GPLv3+: GNU GPL version 3 or later <http://gnu.org/licenses/gpl.html>.
+This is free software: you are free to change and redistribute it.
+There is NO WARRANTY, to the extent permitted by law.
+
+Written by Elian Gidoni.
+ssh into remote server client-93 with ip 52.184.179.6 and execute command cd ~/superbowl; git pull origin sb2017; sudo service cron status; crontab -l; iperf -v; curl -V; traceroute --version
+From https://github.com/ephemeral2eternity/superbowl
+ * branch            sb2017     -> FETCH_HEAD
+   59c34bf..815dcb6  sb2017     -> origin/sb2017
+Updating 59c34bf..815dcb6
+Fast-forward
+ cron_sb17_cloudclients | 2 +-
+ cron_sb17_planetlab    | 4 ++--
+ hosts.py               | 4 ++++
+ 3 files changed, 7 insertions(+), 3 deletions(-)
+cron start/running, process 1161
+no crontab for 18757
+iperf version 2.0.5 (08 Jul 2010) pthreads
+curl 7.35.0 (x86_64-pc-linux-gnu) libcurl/7.35.0 OpenSSL/1.0.1f zlib/1.2.8 libidn/1.28 librtmp/2.3
+Protocols: dict file ftp ftps gopher http https imap imaps ldap ldaps pop3 pop3s rtmp rtsp smtp smtps telnet tftp 
+Features: AsynchDNS GSS-Negotiate IDN IPv6 Largefile NTLM NTLM_WB SSL libz TLS-SRP 
+traceroute (GNU inetutils) 1.9.2
+Copyright (C) 2013 Free Software Foundation, Inc.
+License GPLv3+: GNU GPL version 3 or later <http://gnu.org/licenses/gpl.html>.
+This is free software: you are free to change and redistribute it.
+There is NO WARRANTY, to the extent permitted by law.
+
+Written by Elian Gidoni.
+ssh into remote server client-01 with ip 40.69.130.151 and execute command cd ~/superbowl; git pull origin sb2017; sudo service cron status; crontab -l; iperf -v; curl -V; traceroute --version
+From https://github.com/ephemeral2eternity/superbowl
+ * branch            sb2017     -> FETCH_HEAD
+   59c34bf..815dcb6  sb2017     -> origin/sb2017
+Updating 59c34bf..815dcb6
+Fast-forward
+ cron_sb17_cloudclients | 2 +-
+ cron_sb17_planetlab    | 4 ++--
+ hosts.py               | 4 ++++
+ 3 files changed, 7 insertions(+), 3 deletions(-)
+cron start/running, process 1179
+no crontab for 18757
+iperf version 2.0.5 (08 Jul 2010) pthreads
+curl 7.35.0 (x86_64-pc-linux-gnu) libcurl/7.35.0 OpenSSL/1.0.1f zlib/1.2.8 libidn/1.28 librtmp/2.3
+Protocols: dict file ftp ftps gopher http https imap imaps ldap ldaps pop3 pop3s rtmp rtsp smtp smtps telnet tftp 
+Features: AsynchDNS GSS-Negotiate IDN IPv6 Largefile NTLM NTLM_WB SSL libz TLS-SRP 
+traceroute (GNU inetutils) 1.9.2
+Copyright (C) 2013 Free Software Foundation, Inc.
+License GPLv3+: GNU GPL version 3 or later <http://gnu.org/licenses/gpl.html>.
+This is free software: you are free to change and redistribute it.
+There is NO WARRANTY, to the extent permitted by law.
+
+Written by Elian Gidoni.
+ssh into remote server client-11 with ip 40.69.131.165 and execute command cd ~/superbowl; git pull origin sb2017; sudo service cron status; crontab -l; iperf -v; curl -V; traceroute --version
+From https://github.com/ephemeral2eternity/superbowl
+ * branch            sb2017     -> FETCH_HEAD
+   59c34bf..815dcb6  sb2017     -> origin/sb2017
+Updating 59c34bf..815dcb6
+Fast-forward
+ cron_sb17_cloudclients | 2 +-
+ cron_sb17_planetlab    | 4 ++--
+ hosts.py               | 4 ++++
+ 3 files changed, 7 insertions(+), 3 deletions(-)
+cron start/running, process 1179
+no crontab for 18757
+iperf version 2.0.5 (08 Jul 2010) pthreads
+curl 7.35.0 (x86_64-pc-linux-gnu) libcurl/7.35.0 OpenSSL/1.0.1f zlib/1.2.8 libidn/1.28 librtmp/2.3
+Protocols: dict file ftp ftps gopher http https imap imaps ldap ldaps pop3 pop3s rtmp rtsp smtp smtps telnet tftp 
+Features: AsynchDNS GSS-Negotiate IDN IPv6 Largefile NTLM NTLM_WB SSL libz TLS-SRP 
+traceroute (GNU inetutils) 1.9.2
+Copyright (C) 2013 Free Software Foundation, Inc.
+License GPLv3+: GNU GPL version 3 or later <http://gnu.org/licenses/gpl.html>.
+This is free software: you are free to change and redistribute it.
+There is NO WARRANTY, to the extent permitted by law.
+
+Written by Elian Gidoni.
+ssh into remote server client-21 with ip 40.69.128.222 and execute command cd ~/superbowl; git pull origin sb2017; sudo service cron status; crontab -l; iperf -v; curl -V; traceroute --version
+From https://github.com/ephemeral2eternity/superbowl
+ * branch            sb2017     -> FETCH_HEAD
+   59c34bf..815dcb6  sb2017     -> origin/sb2017
+Updating 59c34bf..815dcb6
+Fast-forward
+ cron_sb17_cloudclients | 2 +-
+ cron_sb17_planetlab    | 4 ++--
+ hosts.py               | 4 ++++
+ 3 files changed, 7 insertions(+), 3 deletions(-)
+cron start/running, process 1189
+no crontab for 18757
+iperf version 2.0.5 (08 Jul 2010) pthreads
+curl 7.35.0 (x86_64-pc-linux-gnu) libcurl/7.35.0 OpenSSL/1.0.1f zlib/1.2.8 libidn/1.28 librtmp/2.3
+Protocols: dict file ftp ftps gopher http https imap imaps ldap ldaps pop3 pop3s rtmp rtsp smtp smtps telnet tftp 
+Features: AsynchDNS GSS-Negotiate IDN IPv6 Largefile NTLM NTLM_WB SSL libz TLS-SRP 
+traceroute (GNU inetutils) 1.9.2
+Copyright (C) 2013 Free Software Foundation, Inc.
+License GPLv3+: GNU GPL version 3 or later <http://gnu.org/licenses/gpl.html>.
+This is free software: you are free to change and redistribute it.
+There is NO WARRANTY, to the extent permitted by law.
+
+Written by Elian Gidoni.
+ssh into remote server client-31 with ip 40.69.131.181 and execute command cd ~/superbowl; git pull origin sb2017; sudo service cron status; crontab -l; iperf -v; curl -V; traceroute --version
+From https://github.com/ephemeral2eternity/superbowl
+ * branch            sb2017     -> FETCH_HEAD
+   59c34bf..815dcb6  sb2017     -> origin/sb2017
+Updating 59c34bf..815dcb6
+Fast-forward
+ cron_sb17_cloudclients | 2 +-
+ cron_sb17_planetlab    | 4 ++--
+ hosts.py               | 4 ++++
+ 3 files changed, 7 insertions(+), 3 deletions(-)
+cron start/running, process 1178
+no crontab for 18757
+iperf version 2.0.5 (08 Jul 2010) pthreads
+curl 7.35.0 (x86_64-pc-linux-gnu) libcurl/7.35.0 OpenSSL/1.0.1f zlib/1.2.8 libidn/1.28 librtmp/2.3
+Protocols: dict file ftp ftps gopher http https imap imaps ldap ldaps pop3 pop3s rtmp rtsp smtp smtps telnet tftp 
+Features: AsynchDNS GSS-Negotiate IDN IPv6 Largefile NTLM NTLM_WB SSL libz TLS-SRP 
+traceroute (GNU inetutils) 1.9.2
+Copyright (C) 2013 Free Software Foundation, Inc.
+License GPLv3+: GNU GPL version 3 or later <http://gnu.org/licenses/gpl.html>.
+This is free software: you are free to change and redistribute it.
+There is NO WARRANTY, to the extent permitted by law.
+
+Written by Elian Gidoni.
+ssh into remote server client-41 with ip 40.69.135.31 and execute command cd ~/superbowl; git pull origin sb2017; sudo service cron status; crontab -l; iperf -v; curl -V; traceroute --version
+From https://github.com/ephemeral2eternity/superbowl
+ * branch            sb2017     -> FETCH_HEAD
+   59c34bf..815dcb6  sb2017     -> origin/sb2017
+Updating 59c34bf..815dcb6
+Fast-forward
+ cron_sb17_cloudclients | 2 +-
+ cron_sb17_planetlab    | 4 ++--
+ hosts.py               | 4 ++++
+ 3 files changed, 7 insertions(+), 3 deletions(-)
+cron start/running, process 1188
+no crontab for 18757
+iperf version 2.0.5 (08 Jul 2010) pthreads
+curl 7.35.0 (x86_64-pc-linux-gnu) libcurl/7.35.0 OpenSSL/1.0.1f zlib/1.2.8 libidn/1.28 librtmp/2.3
+Protocols: dict file ftp ftps gopher http https imap imaps ldap ldaps pop3 pop3s rtmp rtsp smtp smtps telnet tftp 
+Features: AsynchDNS GSS-Negotiate IDN IPv6 Largefile NTLM NTLM_WB SSL libz TLS-SRP 
+traceroute (GNU inetutils) 1.9.2
+Copyright (C) 2013 Free Software Foundation, Inc.
+License GPLv3+: GNU GPL version 3 or later <http://gnu.org/licenses/gpl.html>.
+This is free software: you are free to change and redistribute it.
+There is NO WARRANTY, to the extent permitted by law.
+
+Written by Elian Gidoni.
+ssh into remote server client-51 with ip 40.69.128.221 and execute command cd ~/superbowl; git pull origin sb2017; sudo service cron status; crontab -l; iperf -v; curl -V; traceroute --version
+From https://github.com/ephemeral2eternity/superbowl
+ * branch            sb2017     -> FETCH_HEAD
+   59c34bf..815dcb6  sb2017     -> origin/sb2017
+Updating 59c34bf..815dcb6
+Fast-forward
+ cron_sb17_cloudclients | 2 +-
+ cron_sb17_planetlab    | 4 ++--
+ hosts.py               | 4 ++++
+ 3 files changed, 7 insertions(+), 3 deletions(-)
+cron start/running, process 1184
+no crontab for 18757
+iperf version 2.0.5 (08 Jul 2010) pthreads
+curl 7.35.0 (x86_64-pc-linux-gnu) libcurl/7.35.0 OpenSSL/1.0.1f zlib/1.2.8 libidn/1.28 librtmp/2.3
+Protocols: dict file ftp ftps gopher http https imap imaps ldap ldaps pop3 pop3s rtmp rtsp smtp smtps telnet tftp 
+Features: AsynchDNS GSS-Negotiate IDN IPv6 Largefile NTLM NTLM_WB SSL libz TLS-SRP 
+traceroute (GNU inetutils) 1.9.2
+Copyright (C) 2013 Free Software Foundation, Inc.
+License GPLv3+: GNU GPL version 3 or later <http://gnu.org/licenses/gpl.html>.
+This is free software: you are free to change and redistribute it.
+There is NO WARRANTY, to the extent permitted by law.
+
+Written by Elian Gidoni.
+ssh into remote server client-61 with ip 40.69.130.236 and execute command cd ~/superbowl; git pull origin sb2017; sudo service cron status; crontab -l; iperf -v; curl -V; traceroute --version
+From https://github.com/ephemeral2eternity/superbowl
+ * branch            sb2017     -> FETCH_HEAD
+   59c34bf..815dcb6  sb2017     -> origin/sb2017
+Updating 59c34bf..815dcb6
+Fast-forward
+ cron_sb17_cloudclients | 2 +-
+ cron_sb17_planetlab    | 4 ++--
+ hosts.py               | 4 ++++
+ 3 files changed, 7 insertions(+), 3 deletions(-)
+cron start/running, process 1175
+no crontab for 18757
+iperf version 2.0.5 (08 Jul 2010) pthreads
+curl 7.35.0 (x86_64-pc-linux-gnu) libcurl/7.35.0 OpenSSL/1.0.1f zlib/1.2.8 libidn/1.28 librtmp/2.3
+Protocols: dict file ftp ftps gopher http https imap imaps ldap ldaps pop3 pop3s rtmp rtsp smtp smtps telnet tftp 
+Features: AsynchDNS GSS-Negotiate IDN IPv6 Largefile NTLM NTLM_WB SSL libz TLS-SRP 
+traceroute (GNU inetutils) 1.9.2
+Copyright (C) 2013 Free Software Foundation, Inc.
+License GPLv3+: GNU GPL version 3 or later <http://gnu.org/licenses/gpl.html>.
+This is free software: you are free to change and redistribute it.
+There is NO WARRANTY, to the extent permitted by law.
+
+Written by Elian Gidoni.
+ssh into remote server client-71 with ip 40.69.132.115 and execute command cd ~/superbowl; git pull origin sb2017; sudo service cron status; crontab -l; iperf -v; curl -V; traceroute --version
+From https://github.com/ephemeral2eternity/superbowl
+ * branch            sb2017     -> FETCH_HEAD
+   59c34bf..815dcb6  sb2017     -> origin/sb2017
+Updating 59c34bf..815dcb6
+Fast-forward
+ cron_sb17_cloudclients | 2 +-
+ cron_sb17_planetlab    | 4 ++--
+ hosts.py               | 4 ++++
+ 3 files changed, 7 insertions(+), 3 deletions(-)
+cron start/running, process 1179
+no crontab for 18757
+iperf version 2.0.5 (08 Jul 2010) pthreads
+curl 7.35.0 (x86_64-pc-linux-gnu) libcurl/7.35.0 OpenSSL/1.0.1f zlib/1.2.8 libidn/1.28 librtmp/2.3
+Protocols: dict file ftp ftps gopher http https imap imaps ldap ldaps pop3 pop3s rtmp rtsp smtp smtps telnet tftp 
+Features: AsynchDNS GSS-Negotiate IDN IPv6 Largefile NTLM NTLM_WB SSL libz TLS-SRP 
+traceroute (GNU inetutils) 1.9.2
+Copyright (C) 2013 Free Software Foundation, Inc.
+License GPLv3+: GNU GPL version 3 or later <http://gnu.org/licenses/gpl.html>.
+This is free software: you are free to change and redistribute it.
+There is NO WARRANTY, to the extent permitted by law.
+
+Written by Elian Gidoni.
+ssh into remote server client-81 with ip 40.69.131.233 and execute command cd ~/superbowl; git pull origin sb2017; sudo service cron status; crontab -l; iperf -v; curl -V; traceroute --version
+From https://github.com/ephemeral2eternity/superbowl
+ * branch            sb2017     -> FETCH_HEAD
+   59c34bf..815dcb6  sb2017     -> origin/sb2017
+Updating 59c34bf..815dcb6
+Fast-forward
+ cron_sb17_cloudclients | 2 +-
+ cron_sb17_planetlab    | 4 ++--
+ hosts.py               | 4 ++++
+ 3 files changed, 7 insertions(+), 3 deletions(-)
+cron start/running, process 1180
+no crontab for 18757
+iperf version 2.0.5 (08 Jul 2010) pthreads
+curl 7.35.0 (x86_64-pc-linux-gnu) libcurl/7.35.0 OpenSSL/1.0.1f zlib/1.2.8 libidn/1.28 librtmp/2.3
+Protocols: dict file ftp ftps gopher http https imap imaps ldap ldaps pop3 pop3s rtmp rtsp smtp smtps telnet tftp 
+Features: AsynchDNS GSS-Negotiate IDN IPv6 Largefile NTLM NTLM_WB SSL libz TLS-SRP 
+traceroute (GNU inetutils) 1.9.2
+Copyright (C) 2013 Free Software Foundation, Inc.
+License GPLv3+: GNU GPL version 3 or later <http://gnu.org/licenses/gpl.html>.
+This is free software: you are free to change and redistribute it.
+There is NO WARRANTY, to the extent permitted by law.
+
+Written by Elian Gidoni.
+ssh into remote server client-91 with ip 40.69.131.131 and execute command cd ~/superbowl; git pull origin sb2017; sudo service cron status; crontab -l; iperf -v; curl -V; traceroute --version
+From https://github.com/ephemeral2eternity/superbowl
+ * branch            sb2017     -> FETCH_HEAD
+   59c34bf..815dcb6  sb2017     -> origin/sb2017
+Updating 59c34bf..815dcb6
+Fast-forward
+ cron_sb17_cloudclients | 2 +-
+ cron_sb17_planetlab    | 4 ++--
+ hosts.py               | 4 ++++
+ 3 files changed, 7 insertions(+), 3 deletions(-)
+cron start/running, process 1167
+no crontab for 18757
+iperf version 2.0.5 (08 Jul 2010) pthreads
+curl 7.35.0 (x86_64-pc-linux-gnu) libcurl/7.35.0 OpenSSL/1.0.1f zlib/1.2.8 libidn/1.28 librtmp/2.3
+Protocols: dict file ftp ftps gopher http https imap imaps ldap ldaps pop3 pop3s rtmp rtsp smtp smtps telnet tftp 
+Features: AsynchDNS GSS-Negotiate IDN IPv6 Largefile NTLM NTLM_WB SSL libz TLS-SRP 
+traceroute (GNU inetutils) 1.9.2
+Copyright (C) 2013 Free Software Foundation, Inc.
+License GPLv3+: GNU GPL version 3 or later <http://gnu.org/licenses/gpl.html>.
+This is free software: you are free to change and redistribute it.
+There is NO WARRANTY, to the extent permitted by law.
+
+Written by Elian Gidoni.
+ssh into remote server client-04 with ip 65.52.216.123 and execute command cd ~/superbowl; git pull origin sb2017; sudo service cron status; crontab -l; iperf -v; curl -V; traceroute --version
+From https://github.com/ephemeral2eternity/superbowl
+ * branch            sb2017     -> FETCH_HEAD
+   59c34bf..815dcb6  sb2017     -> origin/sb2017
+Updating 59c34bf..815dcb6
+Fast-forward
+ cron_sb17_cloudclients | 2 +-
+ cron_sb17_planetlab    | 4 ++--
+ hosts.py               | 4 ++++
+ 3 files changed, 7 insertions(+), 3 deletions(-)
+cron start/running, process 1183
+no crontab for 18757
+iperf version 2.0.5 (08 Jul 2010) pthreads
+curl 7.35.0 (x86_64-pc-linux-gnu) libcurl/7.35.0 OpenSSL/1.0.1f zlib/1.2.8 libidn/1.28 librtmp/2.3
+Protocols: dict file ftp ftps gopher http https imap imaps ldap ldaps pop3 pop3s rtmp rtsp smtp smtps telnet tftp 
+Features: AsynchDNS GSS-Negotiate IDN IPv6 Largefile NTLM NTLM_WB SSL libz TLS-SRP 
+traceroute (GNU inetutils) 1.9.2
+Copyright (C) 2013 Free Software Foundation, Inc.
+License GPLv3+: GNU GPL version 3 or later <http://gnu.org/licenses/gpl.html>.
+This is free software: you are free to change and redistribute it.
+There is NO WARRANTY, to the extent permitted by law.
+
+Written by Elian Gidoni.
+ssh into remote server client-14 with ip 65.52.209.0 and execute command cd ~/superbowl; git pull origin sb2017; sudo service cron status; crontab -l; iperf -v; curl -V; traceroute --version
+bash: line 0: cd: /home/18757/superbowl: No such file or directory
+bash: git: command not found
+cron start/running, process 1176
+no crontab for 18757
+bash: iperf: command not found
+curl 7.35.0 (x86_64-pc-linux-gnu) libcurl/7.35.0 OpenSSL/1.0.1f zlib/1.2.8 libidn/1.28 librtmp/2.3
+Protocols: dict file ftp ftps gopher http https imap imaps ldap ldaps pop3 pop3s rtmp rtsp smtp smtps telnet tftp 
+Features: AsynchDNS GSS-Negotiate IDN IPv6 Largefile NTLM NTLM_WB SSL libz TLS-SRP 
+bash: traceroute: command not found
+ssh into remote server client-24 with ip 65.52.209.126 and execute command cd ~/superbowl; git pull origin sb2017; sudo service cron status; crontab -l; iperf -v; curl -V; traceroute --version
+From https://github.com/ephemeral2eternity/superbowl
+ * branch            sb2017     -> FETCH_HEAD
+   59c34bf..815dcb6  sb2017     -> origin/sb2017
+Updating 59c34bf..815dcb6
+Fast-forward
+ cron_sb17_cloudclients | 2 +-
+ cron_sb17_planetlab    | 4 ++--
+ hosts.py               | 4 ++++
+ 3 files changed, 7 insertions(+), 3 deletions(-)
+cron start/running, process 1180
+no crontab for 18757
+iperf version 2.0.5 (08 Jul 2010) pthreads
+curl 7.35.0 (x86_64-pc-linux-gnu) libcurl/7.35.0 OpenSSL/1.0.1f zlib/1.2.8 libidn/1.28 librtmp/2.3
+Protocols: dict file ftp ftps gopher http https imap imaps ldap ldaps pop3 pop3s rtmp rtsp smtp smtps telnet tftp 
+Features: AsynchDNS GSS-Negotiate IDN IPv6 Largefile NTLM NTLM_WB SSL libz TLS-SRP 
+traceroute (GNU inetutils) 1.9.2
+Copyright (C) 2013 Free Software Foundation, Inc.
+License GPLv3+: GNU GPL version 3 or later <http://gnu.org/licenses/gpl.html>.
+This is free software: you are free to change and redistribute it.
+There is NO WARRANTY, to the extent permitted by law.
+
+Written by Elian Gidoni.
+ssh into remote server client-34 with ip 23.96.251.163 and execute command cd ~/superbowl; git pull origin sb2017; sudo service cron status; crontab -l; iperf -v; curl -V; traceroute --version
+From https://github.com/ephemeral2eternity/superbowl
+ * branch            sb2017     -> FETCH_HEAD
+   59c34bf..815dcb6  sb2017     -> origin/sb2017
+Updating 59c34bf..815dcb6
+Fast-forward
+ cron_sb17_cloudclients | 2 +-
+ cron_sb17_planetlab    | 4 ++--
+ hosts.py               | 4 ++++
+ 3 files changed, 7 insertions(+), 3 deletions(-)
+cron start/running, process 1149
+no crontab for 18757
+iperf version 2.0.5 (08 Jul 2010) pthreads
+curl 7.35.0 (x86_64-pc-linux-gnu) libcurl/7.35.0 OpenSSL/1.0.1f zlib/1.2.8 libidn/1.28 librtmp/2.3
+Protocols: dict file ftp ftps gopher http https imap imaps ldap ldaps pop3 pop3s rtmp rtsp smtp smtps telnet tftp 
+Features: AsynchDNS GSS-Negotiate IDN IPv6 Largefile NTLM NTLM_WB SSL libz TLS-SRP 
+traceroute (GNU inetutils) 1.9.2
+Copyright (C) 2013 Free Software Foundation, Inc.
+License GPLv3+: GNU GPL version 3 or later <http://gnu.org/licenses/gpl.html>.
+This is free software: you are free to change and redistribute it.
+There is NO WARRANTY, to the extent permitted by law.
+
+Written by Elian Gidoni.
+ssh into remote server client-44 with ip 23.96.253.183 and execute command cd ~/superbowl; git pull origin sb2017; sudo service cron status; crontab -l; iperf -v; curl -V; traceroute --version
+From https://github.com/ephemeral2eternity/superbowl
+ * branch            sb2017     -> FETCH_HEAD
+   59c34bf..815dcb6  sb2017     -> origin/sb2017
+Updating 59c34bf..815dcb6
+Fast-forward
+ cron_sb17_cloudclients | 2 +-
+ cron_sb17_planetlab    | 4 ++--
+ hosts.py               | 4 ++++
+ 3 files changed, 7 insertions(+), 3 deletions(-)
+cron start/running, process 1173
+no crontab for 18757
+iperf version 2.0.5 (08 Jul 2010) pthreads
+curl 7.35.0 (x86_64-pc-linux-gnu) libcurl/7.35.0 OpenSSL/1.0.1f zlib/1.2.8 libidn/1.28 librtmp/2.3
+Protocols: dict file ftp ftps gopher http https imap imaps ldap ldaps pop3 pop3s rtmp rtsp smtp smtps telnet tftp 
+Features: AsynchDNS GSS-Negotiate IDN IPv6 Largefile NTLM NTLM_WB SSL libz TLS-SRP 
+traceroute (GNU inetutils) 1.9.2
+Copyright (C) 2013 Free Software Foundation, Inc.
+License GPLv3+: GNU GPL version 3 or later <http://gnu.org/licenses/gpl.html>.
+This is free software: you are free to change and redistribute it.
+There is NO WARRANTY, to the extent permitted by law.
+
+Written by Elian Gidoni.
+ssh into remote server client-54 with ip 23.96.249.69 and execute command cd ~/superbowl; git pull origin sb2017; sudo service cron status; crontab -l; iperf -v; curl -V; traceroute --version
+From https://github.com/ephemeral2eternity/superbowl
+ * branch            sb2017     -> FETCH_HEAD
+   59c34bf..815dcb6  sb2017     -> origin/sb2017
+Updating 59c34bf..815dcb6
+Fast-forward
+ cron_sb17_cloudclients | 2 +-
+ cron_sb17_planetlab    | 4 ++--
+ hosts.py               | 4 ++++
+ 3 files changed, 7 insertions(+), 3 deletions(-)
+cron start/running, process 1198
+no crontab for 18757
+iperf version 2.0.5 (08 Jul 2010) pthreads
+curl 7.35.0 (x86_64-pc-linux-gnu) libcurl/7.35.0 OpenSSL/1.0.1f zlib/1.2.8 libidn/1.28 librtmp/2.3
+Protocols: dict file ftp ftps gopher http https imap imaps ldap ldaps pop3 pop3s rtmp rtsp smtp smtps telnet tftp 
+Features: AsynchDNS GSS-Negotiate IDN IPv6 Largefile NTLM NTLM_WB SSL libz TLS-SRP 
+traceroute (GNU inetutils) 1.9.2
+Copyright (C) 2013 Free Software Foundation, Inc.
+License GPLv3+: GNU GPL version 3 or later <http://gnu.org/licenses/gpl.html>.
+This is free software: you are free to change and redistribute it.
+There is NO WARRANTY, to the extent permitted by law.
+
+Written by Elian Gidoni.
+ssh into remote server client-64 with ip 23.96.252.83 and execute command cd ~/superbowl; git pull origin sb2017; sudo service cron status; crontab -l; iperf -v; curl -V; traceroute --version
+From https://github.com/ephemeral2eternity/superbowl
+ * branch            sb2017     -> FETCH_HEAD
+   59c34bf..815dcb6  sb2017     -> origin/sb2017
+Updating 59c34bf..815dcb6
+Fast-forward
+ cron_sb17_cloudclients | 2 +-
+ cron_sb17_planetlab    | 4 ++--
+ hosts.py               | 4 ++++
+ 3 files changed, 7 insertions(+), 3 deletions(-)
+cron start/running, process 1303
+no crontab for 18757
+iperf version 2.0.5 (08 Jul 2010) pthreads
+curl 7.35.0 (x86_64-pc-linux-gnu) libcurl/7.35.0 OpenSSL/1.0.1f zlib/1.2.8 libidn/1.28 librtmp/2.3
+Protocols: dict file ftp ftps gopher http https imap imaps ldap ldaps pop3 pop3s rtmp rtsp smtp smtps telnet tftp 
+Features: AsynchDNS GSS-Negotiate IDN IPv6 Largefile NTLM NTLM_WB SSL libz TLS-SRP 
+traceroute (GNU inetutils) 1.9.2
+Copyright (C) 2013 Free Software Foundation, Inc.
+License GPLv3+: GNU GPL version 3 or later <http://gnu.org/licenses/gpl.html>.
+This is free software: you are free to change and redistribute it.
+There is NO WARRANTY, to the extent permitted by law.
+
+Written by Elian Gidoni.
+ssh into remote server client-74 with ip 23.96.248.160 and execute command cd ~/superbowl; git pull origin sb2017; sudo service cron status; crontab -l; iperf -v; curl -V; traceroute --version
+From https://github.com/ephemeral2eternity/superbowl
+ * branch            sb2017     -> FETCH_HEAD
+   59c34bf..815dcb6  sb2017     -> origin/sb2017
+Updating 59c34bf..815dcb6
+Fast-forward
+ cron_sb17_cloudclients | 2 +-
+ cron_sb17_planetlab    | 4 ++--
+ hosts.py               | 4 ++++
+ 3 files changed, 7 insertions(+), 3 deletions(-)
+cron start/running, process 1185
+no crontab for 18757
+iperf version 2.0.5 (08 Jul 2010) pthreads
+curl 7.35.0 (x86_64-pc-linux-gnu) libcurl/7.35.0 OpenSSL/1.0.1f zlib/1.2.8 libidn/1.28 librtmp/2.3
+Protocols: dict file ftp ftps gopher http https imap imaps ldap ldaps pop3 pop3s rtmp rtsp smtp smtps telnet tftp 
+Features: AsynchDNS GSS-Negotiate IDN IPv6 Largefile NTLM NTLM_WB SSL libz TLS-SRP 
+traceroute (GNU inetutils) 1.9.2
+Copyright (C) 2013 Free Software Foundation, Inc.
+License GPLv3+: GNU GPL version 3 or later <http://gnu.org/licenses/gpl.html>.
+This is free software: you are free to change and redistribute it.
+There is NO WARRANTY, to the extent permitted by law.
+
+Written by Elian Gidoni.
+ssh into remote server client-84 with ip 23.96.248.217 and execute command cd ~/superbowl; git pull origin sb2017; sudo service cron status; crontab -l; iperf -v; curl -V; traceroute --version
+From https://github.com/ephemeral2eternity/superbowl
+ * branch            sb2017     -> FETCH_HEAD
+   59c34bf..815dcb6  sb2017     -> origin/sb2017
+Updating 59c34bf..815dcb6
+Fast-forward
+ cron_sb17_cloudclients | 2 +-
+ cron_sb17_planetlab    | 4 ++--
+ hosts.py               | 4 ++++
+ 3 files changed, 7 insertions(+), 3 deletions(-)
+cron start/running, process 1177
+no crontab for 18757
+iperf version 2.0.5 (08 Jul 2010) pthreads
+curl 7.35.0 (x86_64-pc-linux-gnu) libcurl/7.35.0 OpenSSL/1.0.1f zlib/1.2.8 libidn/1.28 librtmp/2.3
+Protocols: dict file ftp ftps gopher http https imap imaps ldap ldaps pop3 pop3s rtmp rtsp smtp smtps telnet tftp 
+Features: AsynchDNS GSS-Negotiate IDN IPv6 Largefile NTLM NTLM_WB SSL libz TLS-SRP 
+traceroute (GNU inetutils) 1.9.2
+Copyright (C) 2013 Free Software Foundation, Inc.
+License GPLv3+: GNU GPL version 3 or later <http://gnu.org/licenses/gpl.html>.
+This is free software: you are free to change and redistribute it.
+There is NO WARRANTY, to the extent permitted by law.
+
+Written by Elian Gidoni.
+ssh into remote server client-94 with ip 23.96.248.187 and execute command cd ~/superbowl; git pull origin sb2017; sudo service cron status; crontab -l; iperf -v; curl -V; traceroute --version
+From https://github.com/ephemeral2eternity/superbowl
+ * branch            sb2017     -> FETCH_HEAD
+   59c34bf..815dcb6  sb2017     -> origin/sb2017
+Updating 59c34bf..815dcb6
+Fast-forward
+ cron_sb17_cloudclients | 2 +-
+ cron_sb17_planetlab    | 4 ++--
+ hosts.py               | 4 ++++
+ 3 files changed, 7 insertions(+), 3 deletions(-)
+cron start/running, process 1161
+no crontab for 18757
+iperf version 2.0.5 (08 Jul 2010) pthreads
+curl 7.35.0 (x86_64-pc-linux-gnu) libcurl/7.35.0 OpenSSL/1.0.1f zlib/1.2.8 libidn/1.28 librtmp/2.3
+Protocols: dict file ftp ftps gopher http https imap imaps ldap ldaps pop3 pop3s rtmp rtsp smtp smtps telnet tftp 
+Features: AsynchDNS GSS-Negotiate IDN IPv6 Largefile NTLM NTLM_WB SSL libz TLS-SRP 
+traceroute (GNU inetutils) 1.9.2
+Copyright (C) 2013 Free Software Foundation, Inc.
+License GPLv3+: GNU GPL version 3 or later <http://gnu.org/licenses/gpl.html>.
+This is free software: you are free to change and redistribute it.
+There is NO WARRANTY, to the extent permitted by law.
+
+Written by Elian Gidoni.
+ssh into remote server client-05 with ip 13.65.41.26 and execute command cd ~/superbowl; git pull origin sb2017; sudo service cron status; crontab -l; iperf -v; curl -V; traceroute --version
+From https://github.com/ephemeral2eternity/superbowl
+ * branch            sb2017     -> FETCH_HEAD
+   59c34bf..815dcb6  sb2017     -> origin/sb2017
+Updating 59c34bf..815dcb6
+Fast-forward
+ cron_sb17_cloudclients | 2 +-
+ cron_sb17_planetlab    | 4 ++--
+ hosts.py               | 4 ++++
+ 3 files changed, 7 insertions(+), 3 deletions(-)
+cron start/running, process 1457
+no crontab for 18757
+iperf version 2.0.5 (08 Jul 2010) pthreads
+curl 7.35.0 (x86_64-pc-linux-gnu) libcurl/7.35.0 OpenSSL/1.0.1f zlib/1.2.8 libidn/1.28 librtmp/2.3
+Protocols: dict file ftp ftps gopher http https imap imaps ldap ldaps pop3 pop3s rtmp rtsp smtp smtps telnet tftp 
+Features: AsynchDNS GSS-Negotiate IDN IPv6 Largefile NTLM NTLM_WB SSL libz TLS-SRP 
+traceroute (GNU inetutils) 1.9.2
+Copyright (C) 2013 Free Software Foundation, Inc.
+License GPLv3+: GNU GPL version 3 or later <http://gnu.org/licenses/gpl.html>.
+This is free software: you are free to change and redistribute it.
+There is NO WARRANTY, to the extent permitted by law.
+
+Written by Elian Gidoni.
+ssh into remote server client-15 with ip 40.124.13.43 and execute command cd ~/superbowl; git pull origin sb2017; sudo service cron status; crontab -l; iperf -v; curl -V; traceroute --version
+From https://github.com/ephemeral2eternity/superbowl
+ * branch            sb2017     -> FETCH_HEAD
+   59c34bf..815dcb6  sb2017     -> origin/sb2017
+Updating 59c34bf..815dcb6
+Fast-forward
+ cron_sb17_cloudclients | 2 +-
+ cron_sb17_planetlab    | 4 ++--
+ hosts.py               | 4 ++++
+ 3 files changed, 7 insertions(+), 3 deletions(-)
+cron start/running, process 1467
+no crontab for 18757
+iperf version 2.0.5 (08 Jul 2010) pthreads
+curl 7.35.0 (x86_64-pc-linux-gnu) libcurl/7.35.0 OpenSSL/1.0.1f zlib/1.2.8 libidn/1.28 librtmp/2.3
+Protocols: dict file ftp ftps gopher http https imap imaps ldap ldaps pop3 pop3s rtmp rtsp smtp smtps telnet tftp 
+Features: AsynchDNS GSS-Negotiate IDN IPv6 Largefile NTLM NTLM_WB SSL libz TLS-SRP 
+traceroute (GNU inetutils) 1.9.2
+Copyright (C) 2013 Free Software Foundation, Inc.
+License GPLv3+: GNU GPL version 3 or later <http://gnu.org/licenses/gpl.html>.
+This is free software: you are free to change and redistribute it.
+There is NO WARRANTY, to the extent permitted by law.
+
+Written by Elian Gidoni.
+ssh into remote server client-25 with ip 104.44.130.255 and execute command cd ~/superbowl; git pull origin sb2017; sudo service cron status; crontab -l; iperf -v; curl -V; traceroute --version
+From https://github.com/ephemeral2eternity/superbowl
+ * branch            sb2017     -> FETCH_HEAD
+   59c34bf..815dcb6  sb2017     -> origin/sb2017
+Updating 59c34bf..815dcb6
+Fast-forward
+ cron_sb17_cloudclients | 2 +-
+ cron_sb17_planetlab    | 4 ++--
+ hosts.py               | 4 ++++
+ 3 files changed, 7 insertions(+), 3 deletions(-)
+cron start/running, process 1455
+no crontab for 18757
+iperf version 2.0.5 (08 Jul 2010) pthreads
+curl 7.35.0 (x86_64-pc-linux-gnu) libcurl/7.35.0 OpenSSL/1.0.1f zlib/1.2.8 libidn/1.28 librtmp/2.3
+Protocols: dict file ftp ftps gopher http https imap imaps ldap ldaps pop3 pop3s rtmp rtsp smtp smtps telnet tftp 
+Features: AsynchDNS GSS-Negotiate IDN IPv6 Largefile NTLM NTLM_WB SSL libz TLS-SRP 
+traceroute (GNU inetutils) 1.9.2
+Copyright (C) 2013 Free Software Foundation, Inc.
+License GPLv3+: GNU GPL version 3 or later <http://gnu.org/licenses/gpl.html>.
+This is free software: you are free to change and redistribute it.
+There is NO WARRANTY, to the extent permitted by law.
+
+Written by Elian Gidoni.
+ssh into remote server client-35 with ip 70.37.164.86 and execute command cd ~/superbowl; git pull origin sb2017; sudo service cron status; crontab -l; iperf -v; curl -V; traceroute --version
+From https://github.com/ephemeral2eternity/superbowl
+ * branch            sb2017     -> FETCH_HEAD
+   59c34bf..815dcb6  sb2017     -> origin/sb2017
+Updating 59c34bf..815dcb6
+Fast-forward
+ cron_sb17_cloudclients | 2 +-
+ cron_sb17_planetlab    | 4 ++--
+ hosts.py               | 4 ++++
+ 3 files changed, 7 insertions(+), 3 deletions(-)
+cron start/running, process 1474
+no crontab for 18757
+iperf version 2.0.5 (08 Jul 2010) pthreads
+curl 7.35.0 (x86_64-pc-linux-gnu) libcurl/7.35.0 OpenSSL/1.0.1f zlib/1.2.8 libidn/1.28 librtmp/2.3
+Protocols: dict file ftp ftps gopher http https imap imaps ldap ldaps pop3 pop3s rtmp rtsp smtp smtps telnet tftp 
+Features: AsynchDNS GSS-Negotiate IDN IPv6 Largefile NTLM NTLM_WB SSL libz TLS-SRP 
+traceroute (GNU inetutils) 1.9.2
+Copyright (C) 2013 Free Software Foundation, Inc.
+License GPLv3+: GNU GPL version 3 or later <http://gnu.org/licenses/gpl.html>.
+This is free software: you are free to change and redistribute it.
+There is NO WARRANTY, to the extent permitted by law.
+
+Written by Elian Gidoni.
+ssh into remote server client-45 with ip 70.37.165.11 and execute command cd ~/superbowl; git pull origin sb2017; sudo service cron status; crontab -l; iperf -v; curl -V; traceroute --version
+From https://github.com/ephemeral2eternity/superbowl
+ * branch            sb2017     -> FETCH_HEAD
+   59c34bf..815dcb6  sb2017     -> origin/sb2017
+Updating 59c34bf..815dcb6
+Fast-forward
+ cron_sb17_cloudclients | 2 +-
+ cron_sb17_planetlab    | 4 ++--
+ hosts.py               | 4 ++++
+ 3 files changed, 7 insertions(+), 3 deletions(-)
+cron start/running, process 1461
+no crontab for 18757
+iperf version 2.0.5 (08 Jul 2010) pthreads
+curl 7.35.0 (x86_64-pc-linux-gnu) libcurl/7.35.0 OpenSSL/1.0.1f zlib/1.2.8 libidn/1.28 librtmp/2.3
+Protocols: dict file ftp ftps gopher http https imap imaps ldap ldaps pop3 pop3s rtmp rtsp smtp smtps telnet tftp 
+Features: AsynchDNS GSS-Negotiate IDN IPv6 Largefile NTLM NTLM_WB SSL libz TLS-SRP 
+traceroute (GNU inetutils) 1.9.2
+Copyright (C) 2013 Free Software Foundation, Inc.
+License GPLv3+: GNU GPL version 3 or later <http://gnu.org/licenses/gpl.html>.
+This is free software: you are free to change and redistribute it.
+There is NO WARRANTY, to the extent permitted by law.
+
+Written by Elian Gidoni.
+ssh into remote server client-55 with ip 70.37.162.200 and execute command cd ~/superbowl; git pull origin sb2017; sudo service cron status; crontab -l; iperf -v; curl -V; traceroute --version
+From https://github.com/ephemeral2eternity/superbowl
+ * branch            sb2017     -> FETCH_HEAD
+   59c34bf..815dcb6  sb2017     -> origin/sb2017
+Updating 59c34bf..815dcb6
+Fast-forward
+ cron_sb17_cloudclients | 2 +-
+ cron_sb17_planetlab    | 4 ++--
+ hosts.py               | 4 ++++
+ 3 files changed, 7 insertions(+), 3 deletions(-)
+cron start/running, process 1535
+no crontab for 18757
+iperf version 2.0.5 (08 Jul 2010) pthreads
+curl 7.35.0 (x86_64-pc-linux-gnu) libcurl/7.35.0 OpenSSL/1.0.1f zlib/1.2.8 libidn/1.28 librtmp/2.3
+Protocols: dict file ftp ftps gopher http https imap imaps ldap ldaps pop3 pop3s rtmp rtsp smtp smtps telnet tftp 
+Features: AsynchDNS GSS-Negotiate IDN IPv6 Largefile NTLM NTLM_WB SSL libz TLS-SRP 
+traceroute (GNU inetutils) 1.9.2
+Copyright (C) 2013 Free Software Foundation, Inc.
+License GPLv3+: GNU GPL version 3 or later <http://gnu.org/licenses/gpl.html>.
+This is free software: you are free to change and redistribute it.
+There is NO WARRANTY, to the extent permitted by law.
+
+Written by Elian Gidoni.
+ssh into remote server client-65 with ip 104.44.136.91 and execute command cd ~/superbowl; git pull origin sb2017; sudo service cron status; crontab -l; iperf -v; curl -V; traceroute --version
+From https://github.com/ephemeral2eternity/superbowl
+ * branch            sb2017     -> FETCH_HEAD
+   59c34bf..815dcb6  sb2017     -> origin/sb2017
+Updating 59c34bf..815dcb6
+Fast-forward
+ cron_sb17_cloudclients | 2 +-
+ cron_sb17_planetlab    | 4 ++--
+ hosts.py               | 4 ++++
+ 3 files changed, 7 insertions(+), 3 deletions(-)
+cron start/running, process 1488
+no crontab for 18757
+iperf version 2.0.5 (08 Jul 2010) pthreads
+curl 7.35.0 (x86_64-pc-linux-gnu) libcurl/7.35.0 OpenSSL/1.0.1f zlib/1.2.8 libidn/1.28 librtmp/2.3
+Protocols: dict file ftp ftps gopher http https imap imaps ldap ldaps pop3 pop3s rtmp rtsp smtp smtps telnet tftp 
+Features: AsynchDNS GSS-Negotiate IDN IPv6 Largefile NTLM NTLM_WB SSL libz TLS-SRP 
+traceroute (GNU inetutils) 1.9.2
+Copyright (C) 2013 Free Software Foundation, Inc.
+License GPLv3+: GNU GPL version 3 or later <http://gnu.org/licenses/gpl.html>.
+This is free software: you are free to change and redistribute it.
+There is NO WARRANTY, to the extent permitted by law.
+
+Written by Elian Gidoni.
+ssh into remote server client-75 with ip 104.214.110.50 and execute command cd ~/superbowl; git pull origin sb2017; sudo service cron status; crontab -l; iperf -v; curl -V; traceroute --version
+From https://github.com/ephemeral2eternity/superbowl
+ * branch            sb2017     -> FETCH_HEAD
+   59c34bf..815dcb6  sb2017     -> origin/sb2017
+Updating 59c34bf..815dcb6
+Fast-forward
+ cron_sb17_cloudclients | 2 +-
+ cron_sb17_planetlab    | 4 ++--
+ hosts.py               | 4 ++++
+ 3 files changed, 7 insertions(+), 3 deletions(-)
+cron start/running, process 1482
+no crontab for 18757
+iperf version 2.0.5 (08 Jul 2010) pthreads
+curl 7.35.0 (x86_64-pc-linux-gnu) libcurl/7.35.0 OpenSSL/1.0.1f zlib/1.2.8 libidn/1.28 librtmp/2.3
+Protocols: dict file ftp ftps gopher http https imap imaps ldap ldaps pop3 pop3s rtmp rtsp smtp smtps telnet tftp 
+Features: AsynchDNS GSS-Negotiate IDN IPv6 Largefile NTLM NTLM_WB SSL libz TLS-SRP 
+traceroute (GNU inetutils) 1.9.2
+Copyright (C) 2013 Free Software Foundation, Inc.
+License GPLv3+: GNU GPL version 3 or later <http://gnu.org/licenses/gpl.html>.
+This is free software: you are free to change and redistribute it.
+There is NO WARRANTY, to the extent permitted by law.
+
+Written by Elian Gidoni.
+ssh into remote server client-85 with ip 13.65.28.201 and execute command cd ~/superbowl; git pull origin sb2017; sudo service cron status; crontab -l; iperf -v; curl -V; traceroute --version
+From https://github.com/ephemeral2eternity/superbowl
+ * branch            sb2017     -> FETCH_HEAD
+   59c34bf..815dcb6  sb2017     -> origin/sb2017
+Updating 59c34bf..815dcb6
+Fast-forward
+ cron_sb17_cloudclients | 2 +-
+ cron_sb17_planetlab    | 4 ++--
+ hosts.py               | 4 ++++
+ 3 files changed, 7 insertions(+), 3 deletions(-)
+cron start/running, process 1555
+no crontab for 18757
+iperf version 2.0.5 (08 Jul 2010) pthreads
+curl 7.35.0 (x86_64-pc-linux-gnu) libcurl/7.35.0 OpenSSL/1.0.1f zlib/1.2.8 libidn/1.28 librtmp/2.3
+Protocols: dict file ftp ftps gopher http https imap imaps ldap ldaps pop3 pop3s rtmp rtsp smtp smtps telnet tftp 
+Features: AsynchDNS GSS-Negotiate IDN IPv6 Largefile NTLM NTLM_WB SSL libz TLS-SRP 
+traceroute (GNU inetutils) 1.9.2
+Copyright (C) 2013 Free Software Foundation, Inc.
+License GPLv3+: GNU GPL version 3 or later <http://gnu.org/licenses/gpl.html>.
+This is free software: you are free to change and redistribute it.
+There is NO WARRANTY, to the extent permitted by law.
+
+Written by Elian Gidoni.
+ssh into remote server client-95 with ip 40.84.199.96 and execute command cd ~/superbowl; git pull origin sb2017; sudo service cron status; crontab -l; iperf -v; curl -V; traceroute --version
+From https://github.com/ephemeral2eternity/superbowl
+ * branch            sb2017     -> FETCH_HEAD
+   59c34bf..815dcb6  sb2017     -> origin/sb2017
+Updating 59c34bf..815dcb6
+Fast-forward
+ cron_sb17_cloudclients | 2 +-
+ cron_sb17_planetlab    | 4 ++--
+ hosts.py               | 4 ++++
+ 3 files changed, 7 insertions(+), 3 deletions(-)
+cron start/running, process 1479
+no crontab for 18757
+iperf version 2.0.5 (08 Jul 2010) pthreads
+curl 7.35.0 (x86_64-pc-linux-gnu) libcurl/7.35.0 OpenSSL/1.0.1f zlib/1.2.8 libidn/1.28 librtmp/2.3
+Protocols: dict file ftp ftps gopher http https imap imaps ldap ldaps pop3 pop3s rtmp rtsp smtp smtps telnet tftp 
+Features: AsynchDNS GSS-Negotiate IDN IPv6 Largefile NTLM NTLM_WB SSL libz TLS-SRP 
+traceroute (GNU inetutils) 1.9.2
+Copyright (C) 2013 Free Software Foundation, Inc.
+License GPLv3+: GNU GPL version 3 or later <http://gnu.org/licenses/gpl.html>.
+This is free software: you are free to change and redistribute it.
+There is NO WARRANTY, to the extent permitted by law.
+
+Written by Elian Gidoni.
+ssh into remote server client-06 with ip 13.78.237.161 and execute command cd ~/superbowl; git pull origin sb2017; sudo service cron status; crontab -l; iperf -v; curl -V; traceroute --version
+From https://github.com/ephemeral2eternity/superbowl
+ * branch            sb2017     -> FETCH_HEAD
+   59c34bf..815dcb6  sb2017     -> origin/sb2017
+Updating 59c34bf..815dcb6
+Fast-forward
+ cron_sb17_cloudclients | 2 +-
+ cron_sb17_planetlab    | 4 ++--
+ hosts.py               | 4 ++++
+ 3 files changed, 7 insertions(+), 3 deletions(-)
+cron start/running, process 1413
+no crontab for 18757
+iperf version 2.0.5 (08 Jul 2010) pthreads
+curl 7.35.0 (x86_64-pc-linux-gnu) libcurl/7.35.0 OpenSSL/1.0.1f zlib/1.2.8 libidn/1.28 librtmp/2.3
+Protocols: dict file ftp ftps gopher http https imap imaps ldap ldaps pop3 pop3s rtmp rtsp smtp smtps telnet tftp 
+Features: AsynchDNS GSS-Negotiate IDN IPv6 Largefile NTLM NTLM_WB SSL libz TLS-SRP 
+traceroute (GNU inetutils) 1.9.2
+Copyright (C) 2013 Free Software Foundation, Inc.
+License GPLv3+: GNU GPL version 3 or later <http://gnu.org/licenses/gpl.html>.
+This is free software: you are free to change and redistribute it.
+There is NO WARRANTY, to the extent permitted by law.
+
+Written by Elian Gidoni.
+ssh into remote server client-16 with ip 52.161.17.188 and execute command cd ~/superbowl; git pull origin sb2017; sudo service cron status; crontab -l; iperf -v; curl -V; traceroute --version
+From https://github.com/ephemeral2eternity/superbowl
+ * branch            sb2017     -> FETCH_HEAD
+   59c34bf..815dcb6  sb2017     -> origin/sb2017
+Updating 59c34bf..815dcb6
+Fast-forward
+ cron_sb17_cloudclients | 2 +-
+ cron_sb17_planetlab    | 4 ++--
+ hosts.py               | 4 ++++
+ 3 files changed, 7 insertions(+), 3 deletions(-)
+cron start/running, process 1485
+no crontab for 18757
+iperf version 2.0.5 (08 Jul 2010) pthreads
+curl 7.35.0 (x86_64-pc-linux-gnu) libcurl/7.35.0 OpenSSL/1.0.1f zlib/1.2.8 libidn/1.28 librtmp/2.3
+Protocols: dict file ftp ftps gopher http https imap imaps ldap ldaps pop3 pop3s rtmp rtsp smtp smtps telnet tftp 
+Features: AsynchDNS GSS-Negotiate IDN IPv6 Largefile NTLM NTLM_WB SSL libz TLS-SRP 
+traceroute (GNU inetutils) 1.9.2
+Copyright (C) 2013 Free Software Foundation, Inc.
+License GPLv3+: GNU GPL version 3 or later <http://gnu.org/licenses/gpl.html>.
+This is free software: you are free to change and redistribute it.
+There is NO WARRANTY, to the extent permitted by law.
+
+Written by Elian Gidoni.
+ssh into remote server client-26 with ip 13.78.234.211 and execute command cd ~/superbowl; git pull origin sb2017; sudo service cron status; crontab -l; iperf -v; curl -V; traceroute --version
+From https://github.com/ephemeral2eternity/superbowl
+ * branch            sb2017     -> FETCH_HEAD
+   b6526cf..815dcb6  sb2017     -> origin/sb2017
+Updating b6526cf..815dcb6
+Fast-forward
+ cron_sb17_cloudclients | 2 +-
+ cron_sb17_planetlab    | 4 ++--
+ hosts.py               | 2 ++
+ 3 files changed, 5 insertions(+), 3 deletions(-)
+cron start/running, process 1473
+no crontab for 18757
+iperf version 2.0.5 (08 Jul 2010) pthreads
+curl 7.35.0 (x86_64-pc-linux-gnu) libcurl/7.35.0 OpenSSL/1.0.1f zlib/1.2.8 libidn/1.28 librtmp/2.3
+Protocols: dict file ftp ftps gopher http https imap imaps ldap ldaps pop3 pop3s rtmp rtsp smtp smtps telnet tftp 
+Features: AsynchDNS GSS-Negotiate IDN IPv6 Largefile NTLM NTLM_WB SSL libz TLS-SRP 
+traceroute (GNU inetutils) 1.9.2
+Copyright (C) 2013 Free Software Foundation, Inc.
+License GPLv3+: GNU GPL version 3 or later <http://gnu.org/licenses/gpl.html>.
+This is free software: you are free to change and redistribute it.
+There is NO WARRANTY, to the extent permitted by law.
+
+Written by Elian Gidoni.
+ssh into remote server client-36 with ip 13.78.237.212 and execute command cd ~/superbowl; git pull origin sb2017; sudo service cron status; crontab -l; iperf -v; curl -V; traceroute --version
+From https://github.com/ephemeral2eternity/superbowl
+ * branch            sb2017     -> FETCH_HEAD
+   b6526cf..815dcb6  sb2017     -> origin/sb2017
+Updating b6526cf..815dcb6
+Fast-forward
+ cron_sb17_cloudclients | 2 +-
+ cron_sb17_planetlab    | 4 ++--
+ hosts.py               | 2 ++
+ 3 files changed, 5 insertions(+), 3 deletions(-)
+cron start/running, process 1466
+no crontab for 18757
+iperf version 2.0.5 (08 Jul 2010) pthreads
+curl 7.35.0 (x86_64-pc-linux-gnu) libcurl/7.35.0 OpenSSL/1.0.1f zlib/1.2.8 libidn/1.28 librtmp/2.3
+Protocols: dict file ftp ftps gopher http https imap imaps ldap ldaps pop3 pop3s rtmp rtsp smtp smtps telnet tftp 
+Features: AsynchDNS GSS-Negotiate IDN IPv6 Largefile NTLM NTLM_WB SSL libz TLS-SRP 
+traceroute (GNU inetutils) 1.9.2
+Copyright (C) 2013 Free Software Foundation, Inc.
+License GPLv3+: GNU GPL version 3 or later <http://gnu.org/licenses/gpl.html>.
+This is free software: you are free to change and redistribute it.
+There is NO WARRANTY, to the extent permitted by law.
+
+Written by Elian Gidoni.
+ssh into remote server client-46 with ip 52.161.11.175 and execute command cd ~/superbowl; git pull origin sb2017; sudo service cron status; crontab -l; iperf -v; curl -V; traceroute --version
+From https://github.com/ephemeral2eternity/superbowl
+ * branch            sb2017     -> FETCH_HEAD
+   b6526cf..815dcb6  sb2017     -> origin/sb2017
+Updating b6526cf..815dcb6
+Fast-forward
+ cron_sb17_cloudclients | 2 +-
+ cron_sb17_planetlab    | 4 ++--
+ hosts.py               | 2 ++
+ 3 files changed, 5 insertions(+), 3 deletions(-)
+cron start/running, process 1175
+no crontab for 18757
+iperf version 2.0.5 (08 Jul 2010) pthreads
+curl 7.35.0 (x86_64-pc-linux-gnu) libcurl/7.35.0 OpenSSL/1.0.1f zlib/1.2.8 libidn/1.28 librtmp/2.3
+Protocols: dict file ftp ftps gopher http https imap imaps ldap ldaps pop3 pop3s rtmp rtsp smtp smtps telnet tftp 
+Features: AsynchDNS GSS-Negotiate IDN IPv6 Largefile NTLM NTLM_WB SSL libz TLS-SRP 
+traceroute (GNU inetutils) 1.9.2
+Copyright (C) 2013 Free Software Foundation, Inc.
+License GPLv3+: GNU GPL version 3 or later <http://gnu.org/licenses/gpl.html>.
+This is free software: you are free to change and redistribute it.
+There is NO WARRANTY, to the extent permitted by law.
+
+Written by Elian Gidoni.
+ssh into remote server client-56 with ip 13.78.225.154 and execute command cd ~/superbowl; git pull origin sb2017; sudo service cron status; crontab -l; iperf -v; curl -V; traceroute --version
+From https://github.com/ephemeral2eternity/superbowl
+ * branch            sb2017     -> FETCH_HEAD
+   b6526cf..815dcb6  sb2017     -> origin/sb2017
+Updating b6526cf..815dcb6
+Fast-forward
+ cron_sb17_cloudclients | 2 +-
+ cron_sb17_planetlab    | 4 ++--
+ hosts.py               | 2 ++
+ 3 files changed, 5 insertions(+), 3 deletions(-)
+cron start/running, process 1489
+no crontab for 18757
+iperf version 2.0.5 (08 Jul 2010) pthreads
+curl 7.35.0 (x86_64-pc-linux-gnu) libcurl/7.35.0 OpenSSL/1.0.1f zlib/1.2.8 libidn/1.28 librtmp/2.3
+Protocols: dict file ftp ftps gopher http https imap imaps ldap ldaps pop3 pop3s rtmp rtsp smtp smtps telnet tftp 
+Features: AsynchDNS GSS-Negotiate IDN IPv6 Largefile NTLM NTLM_WB SSL libz TLS-SRP 
+traceroute (GNU inetutils) 1.9.2
+Copyright (C) 2013 Free Software Foundation, Inc.
+License GPLv3+: GNU GPL version 3 or later <http://gnu.org/licenses/gpl.html>.
+This is free software: you are free to change and redistribute it.
+There is NO WARRANTY, to the extent permitted by law.
+
+Written by Elian Gidoni.
+ssh into remote server client-66 with ip 13.78.235.84 and execute command cd ~/superbowl; git pull origin sb2017; sudo service cron status; crontab -l; iperf -v; curl -V; traceroute --version
+From https://github.com/ephemeral2eternity/superbowl
+ * branch            sb2017     -> FETCH_HEAD
+   b6526cf..815dcb6  sb2017     -> origin/sb2017
+Updating b6526cf..815dcb6
+Fast-forward
+ cron_sb17_cloudclients | 2 +-
+ cron_sb17_planetlab    | 4 ++--
+ hosts.py               | 2 ++
+ 3 files changed, 5 insertions(+), 3 deletions(-)
+cron start/running, process 1484
+no crontab for 18757
+iperf version 2.0.5 (08 Jul 2010) pthreads
+curl 7.35.0 (x86_64-pc-linux-gnu) libcurl/7.35.0 OpenSSL/1.0.1f zlib/1.2.8 libidn/1.28 librtmp/2.3
+Protocols: dict file ftp ftps gopher http https imap imaps ldap ldaps pop3 pop3s rtmp rtsp smtp smtps telnet tftp 
+Features: AsynchDNS GSS-Negotiate IDN IPv6 Largefile NTLM NTLM_WB SSL libz TLS-SRP 
+traceroute (GNU inetutils) 1.9.2
+Copyright (C) 2013 Free Software Foundation, Inc.
+License GPLv3+: GNU GPL version 3 or later <http://gnu.org/licenses/gpl.html>.
+This is free software: you are free to change and redistribute it.
+There is NO WARRANTY, to the extent permitted by law.
+
+Written by Elian Gidoni.
+ssh into remote server client-76 with ip 13.78.225.182 and execute command cd ~/superbowl; git pull origin sb2017; sudo service cron status; crontab -l; iperf -v; curl -V; traceroute --version
+From https://github.com/ephemeral2eternity/superbowl
+ * branch            sb2017     -> FETCH_HEAD
+   b6526cf..815dcb6  sb2017     -> origin/sb2017
+Updating b6526cf..815dcb6
+Fast-forward
+ cron_sb17_cloudclients | 2 +-
+ cron_sb17_planetlab    | 4 ++--
+ hosts.py               | 2 ++
+ 3 files changed, 5 insertions(+), 3 deletions(-)
+cron start/running, process 1478
+no crontab for 18757
+iperf version 2.0.5 (08 Jul 2010) pthreads
+curl 7.35.0 (x86_64-pc-linux-gnu) libcurl/7.35.0 OpenSSL/1.0.1f zlib/1.2.8 libidn/1.28 librtmp/2.3
+Protocols: dict file ftp ftps gopher http https imap imaps ldap ldaps pop3 pop3s rtmp rtsp smtp smtps telnet tftp 
+Features: AsynchDNS GSS-Negotiate IDN IPv6 Largefile NTLM NTLM_WB SSL libz TLS-SRP 
+traceroute (GNU inetutils) 1.9.2
+Copyright (C) 2013 Free Software Foundation, Inc.
+License GPLv3+: GNU GPL version 3 or later <http://gnu.org/licenses/gpl.html>.
+This is free software: you are free to change and redistribute it.
+There is NO WARRANTY, to the extent permitted by law.
+
+Written by Elian Gidoni.
+ssh into remote server client-86 with ip 13.78.225.202 and execute command cd ~/superbowl; git pull origin sb2017; sudo service cron status; crontab -l; iperf -v; curl -V; traceroute --version
+From https://github.com/ephemeral2eternity/superbowl
+ * branch            sb2017     -> FETCH_HEAD
+   b6526cf..815dcb6  sb2017     -> origin/sb2017
+Updating b6526cf..815dcb6
+Fast-forward
+ cron_sb17_cloudclients | 2 +-
+ cron_sb17_planetlab    | 4 ++--
+ hosts.py               | 2 ++
+ 3 files changed, 5 insertions(+), 3 deletions(-)
+cron start/running, process 1480
+no crontab for 18757
+iperf version 2.0.5 (08 Jul 2010) pthreads
+curl 7.35.0 (x86_64-pc-linux-gnu) libcurl/7.35.0 OpenSSL/1.0.1f zlib/1.2.8 libidn/1.28 librtmp/2.3
+Protocols: dict file ftp ftps gopher http https imap imaps ldap ldaps pop3 pop3s rtmp rtsp smtp smtps telnet tftp 
+Features: AsynchDNS GSS-Negotiate IDN IPv6 Largefile NTLM NTLM_WB SSL libz TLS-SRP 
+traceroute (GNU inetutils) 1.9.2
+Copyright (C) 2013 Free Software Foundation, Inc.
+License GPLv3+: GNU GPL version 3 or later <http://gnu.org/licenses/gpl.html>.
+This is free software: you are free to change and redistribute it.
+There is NO WARRANTY, to the extent permitted by law.
+
+Written by Elian Gidoni.
+ssh into remote server client-96 with ip 13.78.225.223 and execute command cd ~/superbowl; git pull origin sb2017; sudo service cron status; crontab -l; iperf -v; curl -V; traceroute --version
+From https://github.com/ephemeral2eternity/superbowl
+ * branch            sb2017     -> FETCH_HEAD
+   b6526cf..815dcb6  sb2017     -> origin/sb2017
+Updating b6526cf..815dcb6
+Fast-forward
+ cron_sb17_cloudclients | 2 +-
+ cron_sb17_planetlab    | 4 ++--
+ hosts.py               | 2 ++
+ 3 files changed, 5 insertions(+), 3 deletions(-)
+cron start/running, process 1463
+no crontab for 18757
+iperf version 2.0.5 (08 Jul 2010) pthreads
+curl 7.35.0 (x86_64-pc-linux-gnu) libcurl/7.35.0 OpenSSL/1.0.1f zlib/1.2.8 libidn/1.28 librtmp/2.3
+Protocols: dict file ftp ftps gopher http https imap imaps ldap ldaps pop3 pop3s rtmp rtsp smtp smtps telnet tftp 
+Features: AsynchDNS GSS-Negotiate IDN IPv6 Largefile NTLM NTLM_WB SSL libz TLS-SRP 
+traceroute (GNU inetutils) 1.9.2
+Copyright (C) 2013 Free Software Foundation, Inc.
+License GPLv3+: GNU GPL version 3 or later <http://gnu.org/licenses/gpl.html>.
+This is free software: you are free to change and redistribute it.
+There is NO WARRANTY, to the extent permitted by law.
+
+Written by Elian Gidoni.
+ssh into remote server client-07 with ip 104.42.188.151 and execute command cd ~/superbowl; git pull origin sb2017; sudo service cron status; crontab -l; iperf -v; curl -V; traceroute --version
+From https://github.com/ephemeral2eternity/superbowl
+ * branch            sb2017     -> FETCH_HEAD
+   b6526cf..815dcb6  sb2017     -> origin/sb2017
+Updating b6526cf..815dcb6
+Fast-forward
+ cron_sb17_cloudclients | 2 +-
+ cron_sb17_planetlab    | 4 ++--
+ hosts.py               | 2 ++
+ 3 files changed, 5 insertions(+), 3 deletions(-)
+cron start/running, process 1476
+no crontab for 18757
+iperf version 2.0.5 (08 Jul 2010) pthreads
+curl 7.35.0 (x86_64-pc-linux-gnu) libcurl/7.35.0 OpenSSL/1.0.1f zlib/1.2.8 libidn/1.28 librtmp/2.3
+Protocols: dict file ftp ftps gopher http https imap imaps ldap ldaps pop3 pop3s rtmp rtsp smtp smtps telnet tftp 
+Features: AsynchDNS GSS-Negotiate IDN IPv6 Largefile NTLM NTLM_WB SSL libz TLS-SRP 
+traceroute (GNU inetutils) 1.9.2
+Copyright (C) 2013 Free Software Foundation, Inc.
+License GPLv3+: GNU GPL version 3 or later <http://gnu.org/licenses/gpl.html>.
+This is free software: you are free to change and redistribute it.
+There is NO WARRANTY, to the extent permitted by law.
+
+Written by Elian Gidoni.
+ssh into remote server client-17 with ip 13.91.95.191 and execute command cd ~/superbowl; git pull origin sb2017; sudo service cron status; crontab -l; iperf -v; curl -V; traceroute --version
+From https://github.com/ephemeral2eternity/superbowl
+ * branch            sb2017     -> FETCH_HEAD
+   b6526cf..815dcb6  sb2017     -> origin/sb2017
+Updating b6526cf..815dcb6
+Fast-forward
+ cron_sb17_cloudclients | 2 +-
+ cron_sb17_planetlab    | 4 ++--
+ hosts.py               | 2 ++
+ 3 files changed, 5 insertions(+), 3 deletions(-)
+cron start/running, process 1449
+no crontab for 18757
+iperf version 2.0.5 (08 Jul 2010) pthreads
+curl 7.35.0 (x86_64-pc-linux-gnu) libcurl/7.35.0 OpenSSL/1.0.1f zlib/1.2.8 libidn/1.28 librtmp/2.3
+Protocols: dict file ftp ftps gopher http https imap imaps ldap ldaps pop3 pop3s rtmp rtsp smtp smtps telnet tftp 
+Features: AsynchDNS GSS-Negotiate IDN IPv6 Largefile NTLM NTLM_WB SSL libz TLS-SRP 
+traceroute (GNU inetutils) 1.9.2
+Copyright (C) 2013 Free Software Foundation, Inc.
+License GPLv3+: GNU GPL version 3 or later <http://gnu.org/licenses/gpl.html>.
+This is free software: you are free to change and redistribute it.
+There is NO WARRANTY, to the extent permitted by law.
+
+Written by Elian Gidoni.
+ssh into remote server client-27 with ip 13.64.235.133 and execute command cd ~/superbowl; git pull origin sb2017; sudo service cron status; crontab -l; iperf -v; curl -V; traceroute --version
+From https://github.com/ephemeral2eternity/superbowl
+ * branch            sb2017     -> FETCH_HEAD
+   b6526cf..815dcb6  sb2017     -> origin/sb2017
+Updating b6526cf..815dcb6
+Fast-forward
+ cron_sb17_cloudclients | 2 +-
+ cron_sb17_planetlab    | 4 ++--
+ hosts.py               | 2 ++
+ 3 files changed, 5 insertions(+), 3 deletions(-)
+cron start/running, process 1528
+no crontab for 18757
+iperf version 2.0.5 (08 Jul 2010) pthreads
+curl 7.35.0 (x86_64-pc-linux-gnu) libcurl/7.35.0 OpenSSL/1.0.1f zlib/1.2.8 libidn/1.28 librtmp/2.3
+Protocols: dict file ftp ftps gopher http https imap imaps ldap ldaps pop3 pop3s rtmp rtsp smtp smtps telnet tftp 
+Features: AsynchDNS GSS-Negotiate IDN IPv6 Largefile NTLM NTLM_WB SSL libz TLS-SRP 
+traceroute (GNU inetutils) 1.9.2
+Copyright (C) 2013 Free Software Foundation, Inc.
+License GPLv3+: GNU GPL version 3 or later <http://gnu.org/licenses/gpl.html>.
+This is free software: you are free to change and redistribute it.
+There is NO WARRANTY, to the extent permitted by law.
+
+Written by Elian Gidoni.
+ssh into remote server client-37 with ip 13.91.94.45 and execute command cd ~/superbowl; git pull origin sb2017; sudo service cron status; crontab -l; iperf -v; curl -V; traceroute --version
+From https://github.com/ephemeral2eternity/superbowl
+ * branch            sb2017     -> FETCH_HEAD
+   b6526cf..815dcb6  sb2017     -> origin/sb2017
+Updating b6526cf..815dcb6
+Fast-forward
+ cron_sb17_cloudclients | 2 +-
+ cron_sb17_planetlab    | 4 ++--
+ hosts.py               | 2 ++
+ 3 files changed, 5 insertions(+), 3 deletions(-)
+cron start/running, process 1532
+no crontab for 18757
+iperf version 2.0.5 (08 Jul 2010) pthreads
+curl 7.35.0 (x86_64-pc-linux-gnu) libcurl/7.35.0 OpenSSL/1.0.1f zlib/1.2.8 libidn/1.28 librtmp/2.3
+Protocols: dict file ftp ftps gopher http https imap imaps ldap ldaps pop3 pop3s rtmp rtsp smtp smtps telnet tftp 
+Features: AsynchDNS GSS-Negotiate IDN IPv6 Largefile NTLM NTLM_WB SSL libz TLS-SRP 
+traceroute (GNU inetutils) 1.9.2
+Copyright (C) 2013 Free Software Foundation, Inc.
+License GPLv3+: GNU GPL version 3 or later <http://gnu.org/licenses/gpl.html>.
+This is free software: you are free to change and redistribute it.
+There is NO WARRANTY, to the extent permitted by law.
+
+Written by Elian Gidoni.
+ssh into remote server client-47 with ip 13.64.233.180 and execute command cd ~/superbowl; git pull origin sb2017; sudo service cron status; crontab -l; iperf -v; curl -V; traceroute --version
+From https://github.com/ephemeral2eternity/superbowl
+ * branch            sb2017     -> FETCH_HEAD
+   b6526cf..815dcb6  sb2017     -> origin/sb2017
+Updating b6526cf..815dcb6
+Fast-forward
+ cron_sb17_cloudclients | 2 +-
+ cron_sb17_planetlab    | 4 ++--
+ hosts.py               | 2 ++
+ 3 files changed, 5 insertions(+), 3 deletions(-)
+cron start/running, process 1480
+no crontab for 18757
+iperf version 2.0.5 (08 Jul 2010) pthreads
+curl 7.35.0 (x86_64-pc-linux-gnu) libcurl/7.35.0 OpenSSL/1.0.1f zlib/1.2.8 libidn/1.28 librtmp/2.3
+Protocols: dict file ftp ftps gopher http https imap imaps ldap ldaps pop3 pop3s rtmp rtsp smtp smtps telnet tftp 
+Features: AsynchDNS GSS-Negotiate IDN IPv6 Largefile NTLM NTLM_WB SSL libz TLS-SRP 
+traceroute (GNU inetutils) 1.9.2
+Copyright (C) 2013 Free Software Foundation, Inc.
+License GPLv3+: GNU GPL version 3 or later <http://gnu.org/licenses/gpl.html>.
+This is free software: you are free to change and redistribute it.
+There is NO WARRANTY, to the extent permitted by law.
+
+Written by Elian Gidoni.
+ssh into remote server client-57 with ip 13.64.237.178 and execute command cd ~/superbowl; git pull origin sb2017; sudo service cron status; crontab -l; iperf -v; curl -V; traceroute --version
+From https://github.com/ephemeral2eternity/superbowl
+ * branch            sb2017     -> FETCH_HEAD
+   b6526cf..815dcb6  sb2017     -> origin/sb2017
+Updating b6526cf..815dcb6
+Fast-forward
+ cron_sb17_cloudclients | 2 +-
+ cron_sb17_planetlab    | 4 ++--
+ hosts.py               | 2 ++
+ 3 files changed, 5 insertions(+), 3 deletions(-)
+cron start/running, process 1493
+no crontab for 18757
+iperf version 2.0.5 (08 Jul 2010) pthreads
+curl 7.35.0 (x86_64-pc-linux-gnu) libcurl/7.35.0 OpenSSL/1.0.1f zlib/1.2.8 libidn/1.28 librtmp/2.3
+Protocols: dict file ftp ftps gopher http https imap imaps ldap ldaps pop3 pop3s rtmp rtsp smtp smtps telnet tftp 
+Features: AsynchDNS GSS-Negotiate IDN IPv6 Largefile NTLM NTLM_WB SSL libz TLS-SRP 
+traceroute (GNU inetutils) 1.9.2
+Copyright (C) 2013 Free Software Foundation, Inc.
+License GPLv3+: GNU GPL version 3 or later <http://gnu.org/licenses/gpl.html>.
+This is free software: you are free to change and redistribute it.
+There is NO WARRANTY, to the extent permitted by law.
+
+Written by Elian Gidoni.
+ssh into remote server client-67 with ip 13.64.239.213 and execute command cd ~/superbowl; git pull origin sb2017; sudo service cron status; crontab -l; iperf -v; curl -V; traceroute --version
+From https://github.com/ephemeral2eternity/superbowl
+ * branch            sb2017     -> FETCH_HEAD
+   b6526cf..815dcb6  sb2017     -> origin/sb2017
+Updating b6526cf..815dcb6
+Fast-forward
+ cron_sb17_cloudclients | 2 +-
+ cron_sb17_planetlab    | 4 ++--
+ hosts.py               | 2 ++
+ 3 files changed, 5 insertions(+), 3 deletions(-)
+cron start/running, process 1137
+no crontab for 18757
+iperf version 2.0.5 (08 Jul 2010) pthreads
+curl 7.35.0 (x86_64-pc-linux-gnu) libcurl/7.35.0 OpenSSL/1.0.1f zlib/1.2.8 libidn/1.28 librtmp/2.3
+Protocols: dict file ftp ftps gopher http https imap imaps ldap ldaps pop3 pop3s rtmp rtsp smtp smtps telnet tftp 
+Features: AsynchDNS GSS-Negotiate IDN IPv6 Largefile NTLM NTLM_WB SSL libz TLS-SRP 
+traceroute (GNU inetutils) 1.9.2
+Copyright (C) 2013 Free Software Foundation, Inc.
+License GPLv3+: GNU GPL version 3 or later <http://gnu.org/licenses/gpl.html>.
+This is free software: you are free to change and redistribute it.
+There is NO WARRANTY, to the extent permitted by law.
+
+Written by Elian Gidoni.
+ssh into remote server client-77 with ip 13.88.184.52 and execute command cd ~/superbowl; git pull origin sb2017; sudo service cron status; crontab -l; iperf -v; curl -V; traceroute --version
+From https://github.com/ephemeral2eternity/superbowl
+ * branch            sb2017     -> FETCH_HEAD
+   b6526cf..815dcb6  sb2017     -> origin/sb2017
+Updating b6526cf..815dcb6
+Fast-forward
+ cron_sb17_cloudclients | 2 +-
+ cron_sb17_planetlab    | 4 ++--
+ hosts.py               | 2 ++
+ 3 files changed, 5 insertions(+), 3 deletions(-)
+cron start/running, process 1457
+no crontab for 18757
+iperf version 2.0.5 (08 Jul 2010) pthreads
+curl 7.35.0 (x86_64-pc-linux-gnu) libcurl/7.35.0 OpenSSL/1.0.1f zlib/1.2.8 libidn/1.28 librtmp/2.3
+Protocols: dict file ftp ftps gopher http https imap imaps ldap ldaps pop3 pop3s rtmp rtsp smtp smtps telnet tftp 
+Features: AsynchDNS GSS-Negotiate IDN IPv6 Largefile NTLM NTLM_WB SSL libz TLS-SRP 
+traceroute (GNU inetutils) 1.9.2
+Copyright (C) 2013 Free Software Foundation, Inc.
+License GPLv3+: GNU GPL version 3 or later <http://gnu.org/licenses/gpl.html>.
+This is free software: you are free to change and redistribute it.
+There is NO WARRANTY, to the extent permitted by law.
+
+Written by Elian Gidoni.
+ssh into remote server client-87 with ip 13.64.109.137 and execute command cd ~/superbowl; git pull origin sb2017; sudo service cron status; crontab -l; iperf -v; curl -V; traceroute --version
+From https://github.com/ephemeral2eternity/superbowl
+ * branch            sb2017     -> FETCH_HEAD
+   b6526cf..815dcb6  sb2017     -> origin/sb2017
+Updating b6526cf..815dcb6
+Fast-forward
+ cron_sb17_cloudclients | 2 +-
+ cron_sb17_planetlab    | 4 ++--
+ hosts.py               | 2 ++
+ 3 files changed, 5 insertions(+), 3 deletions(-)
+cron start/running, process 1487
+no crontab for 18757
+iperf version 2.0.5 (08 Jul 2010) pthreads
+curl 7.35.0 (x86_64-pc-linux-gnu) libcurl/7.35.0 OpenSSL/1.0.1f zlib/1.2.8 libidn/1.28 librtmp/2.3
+Protocols: dict file ftp ftps gopher http https imap imaps ldap ldaps pop3 pop3s rtmp rtsp smtp smtps telnet tftp 
+Features: AsynchDNS GSS-Negotiate IDN IPv6 Largefile NTLM NTLM_WB SSL libz TLS-SRP 
+traceroute (GNU inetutils) 1.9.2
+Copyright (C) 2013 Free Software Foundation, Inc.
+License GPLv3+: GNU GPL version 3 or later <http://gnu.org/licenses/gpl.html>.
+This is free software: you are free to change and redistribute it.
+There is NO WARRANTY, to the extent permitted by law.
+
+Written by Elian Gidoni.
+ssh into remote server client-97 with ip 13.64.109.139 and execute command cd ~/superbowl; git pull origin sb2017; sudo service cron status; crontab -l; iperf -v; curl -V; traceroute --version
+From https://github.com/ephemeral2eternity/superbowl
+ * branch            sb2017     -> FETCH_HEAD
+   b6526cf..815dcb6  sb2017     -> origin/sb2017
+Updating b6526cf..815dcb6
+Fast-forward
+ cron_sb17_cloudclients | 2 +-
+ cron_sb17_planetlab    | 4 ++--
+ hosts.py               | 2 ++
+ 3 files changed, 5 insertions(+), 3 deletions(-)
+cron start/running, process 1477
+no crontab for 18757
+iperf version 2.0.5 (08 Jul 2010) pthreads
+curl 7.35.0 (x86_64-pc-linux-gnu) libcurl/7.35.0 OpenSSL/1.0.1f zlib/1.2.8 libidn/1.28 librtmp/2.3
+Protocols: dict file ftp ftps gopher http https imap imaps ldap ldaps pop3 pop3s rtmp rtsp smtp smtps telnet tftp 
+Features: AsynchDNS GSS-Negotiate IDN IPv6 Largefile NTLM NTLM_WB SSL libz TLS-SRP 
+traceroute (GNU inetutils) 1.9.2
+Copyright (C) 2013 Free Software Foundation, Inc.
+License GPLv3+: GNU GPL version 3 or later <http://gnu.org/licenses/gpl.html>.
+This is free software: you are free to change and redistribute it.
+There is NO WARRANTY, to the extent permitted by law.
+
+Written by Elian Gidoni.
+ssh into remote server client-08 with ip 52.183.56.49 and execute command cd ~/superbowl; git pull origin sb2017; sudo service cron status; crontab -l; iperf -v; curl -V; traceroute --version
+From https://github.com/ephemeral2eternity/superbowl
+ * branch            sb2017     -> FETCH_HEAD
+   b6526cf..815dcb6  sb2017     -> origin/sb2017
+Updating b6526cf..815dcb6
+Fast-forward
+ cron_sb17_cloudclients | 2 +-
+ cron_sb17_planetlab    | 4 ++--
+ hosts.py               | 2 ++
+ 3 files changed, 5 insertions(+), 3 deletions(-)
+cron start/running, process 1168
+no crontab for 18757
+iperf version 2.0.5 (08 Jul 2010) pthreads
+curl 7.35.0 (x86_64-pc-linux-gnu) libcurl/7.35.0 OpenSSL/1.0.1f zlib/1.2.8 libidn/1.28 librtmp/2.3
+Protocols: dict file ftp ftps gopher http https imap imaps ldap ldaps pop3 pop3s rtmp rtsp smtp smtps telnet tftp 
+Features: AsynchDNS GSS-Negotiate IDN IPv6 Largefile NTLM NTLM_WB SSL libz TLS-SRP 
+traceroute (GNU inetutils) 1.9.2
+Copyright (C) 2013 Free Software Foundation, Inc.
+License GPLv3+: GNU GPL version 3 or later <http://gnu.org/licenses/gpl.html>.
+This is free software: you are free to change and redistribute it.
+There is NO WARRANTY, to the extent permitted by law.
+
+Written by Elian Gidoni.
+ssh into remote server client-18 with ip 52.175.201.47 and execute command cd ~/superbowl; git pull origin sb2017; sudo service cron status; crontab -l; iperf -v; curl -V; traceroute --version
+From https://github.com/ephemeral2eternity/superbowl
+ * branch            sb2017     -> FETCH_HEAD
+   b6526cf..815dcb6  sb2017     -> origin/sb2017
+Updating b6526cf..815dcb6
+Fast-forward
+ cron_sb17_cloudclients | 2 +-
+ cron_sb17_planetlab    | 4 ++--
+ hosts.py               | 2 ++
+ 3 files changed, 5 insertions(+), 3 deletions(-)
+cron start/running, process 1174
+no crontab for 18757
+iperf version 2.0.5 (08 Jul 2010) pthreads
+curl 7.35.0 (x86_64-pc-linux-gnu) libcurl/7.35.0 OpenSSL/1.0.1f zlib/1.2.8 libidn/1.28 librtmp/2.3
+Protocols: dict file ftp ftps gopher http https imap imaps ldap ldaps pop3 pop3s rtmp rtsp smtp smtps telnet tftp 
+Features: AsynchDNS GSS-Negotiate IDN IPv6 Largefile NTLM NTLM_WB SSL libz TLS-SRP 
+traceroute (GNU inetutils) 1.9.2
+Copyright (C) 2013 Free Software Foundation, Inc.
+License GPLv3+: GNU GPL version 3 or later <http://gnu.org/licenses/gpl.html>.
+This is free software: you are free to change and redistribute it.
+There is NO WARRANTY, to the extent permitted by law.
+
+Written by Elian Gidoni.
+ssh into remote server client-28 with ip 52.175.211.57 and execute command cd ~/superbowl; git pull origin sb2017; sudo service cron status; crontab -l; iperf -v; curl -V; traceroute --version
+From https://github.com/ephemeral2eternity/superbowl
+ * branch            sb2017     -> FETCH_HEAD
+   b6526cf..815dcb6  sb2017     -> origin/sb2017
+Updating b6526cf..815dcb6
+Fast-forward
+ cron_sb17_cloudclients | 2 +-
+ cron_sb17_planetlab    | 4 ++--
+ hosts.py               | 2 ++
+ 3 files changed, 5 insertions(+), 3 deletions(-)
+cron start/running, process 1179
+no crontab for 18757
+iperf version 2.0.5 (08 Jul 2010) pthreads
+curl 7.35.0 (x86_64-pc-linux-gnu) libcurl/7.35.0 OpenSSL/1.0.1f zlib/1.2.8 libidn/1.28 librtmp/2.3
+Protocols: dict file ftp ftps gopher http https imap imaps ldap ldaps pop3 pop3s rtmp rtsp smtp smtps telnet tftp 
+Features: AsynchDNS GSS-Negotiate IDN IPv6 Largefile NTLM NTLM_WB SSL libz TLS-SRP 
+traceroute (GNU inetutils) 1.9.2
+Copyright (C) 2013 Free Software Foundation, Inc.
+License GPLv3+: GNU GPL version 3 or later <http://gnu.org/licenses/gpl.html>.
+This is free software: you are free to change and redistribute it.
+There is NO WARRANTY, to the extent permitted by law.
+
+Written by Elian Gidoni.
+ssh into remote server client-38 with ip 52.175.203.178 and execute command cd ~/superbowl; git pull origin sb2017; sudo service cron status; crontab -l; iperf -v; curl -V; traceroute --version
+From https://github.com/ephemeral2eternity/superbowl
+ * branch            sb2017     -> FETCH_HEAD
+   b6526cf..815dcb6  sb2017     -> origin/sb2017
+Updating b6526cf..815dcb6
+Fast-forward
+ cron_sb17_cloudclients | 2 +-
+ cron_sb17_planetlab    | 4 ++--
+ hosts.py               | 2 ++
+ 3 files changed, 5 insertions(+), 3 deletions(-)
+cron start/running, process 1177
+no crontab for 18757
+iperf version 2.0.5 (08 Jul 2010) pthreads
+curl 7.35.0 (x86_64-pc-linux-gnu) libcurl/7.35.0 OpenSSL/1.0.1f zlib/1.2.8 libidn/1.28 librtmp/2.3
+Protocols: dict file ftp ftps gopher http https imap imaps ldap ldaps pop3 pop3s rtmp rtsp smtp smtps telnet tftp 
+Features: AsynchDNS GSS-Negotiate IDN IPv6 Largefile NTLM NTLM_WB SSL libz TLS-SRP 
+traceroute (GNU inetutils) 1.9.2
+Copyright (C) 2013 Free Software Foundation, Inc.
+License GPLv3+: GNU GPL version 3 or later <http://gnu.org/licenses/gpl.html>.
+This is free software: you are free to change and redistribute it.
+There is NO WARRANTY, to the extent permitted by law.
+
+Written by Elian Gidoni.
+ssh into remote server client-48 with ip 52.175.205.221 and execute command cd ~/superbowl; git pull origin sb2017; sudo service cron status; crontab -l; iperf -v; curl -V; traceroute --version
+From https://github.com/ephemeral2eternity/superbowl
+ * branch            sb2017     -> FETCH_HEAD
+   b6526cf..815dcb6  sb2017     -> origin/sb2017
+Updating b6526cf..815dcb6
+Fast-forward
+ cron_sb17_cloudclients | 2 +-
+ cron_sb17_planetlab    | 4 ++--
+ hosts.py               | 2 ++
+ 3 files changed, 5 insertions(+), 3 deletions(-)
+cron start/running, process 1171
+no crontab for 18757
+iperf version 2.0.5 (08 Jul 2010) pthreads
+curl 7.35.0 (x86_64-pc-linux-gnu) libcurl/7.35.0 OpenSSL/1.0.1f zlib/1.2.8 libidn/1.28 librtmp/2.3
+Protocols: dict file ftp ftps gopher http https imap imaps ldap ldaps pop3 pop3s rtmp rtsp smtp smtps telnet tftp 
+Features: AsynchDNS GSS-Negotiate IDN IPv6 Largefile NTLM NTLM_WB SSL libz TLS-SRP 
+traceroute (GNU inetutils) 1.9.2
+Copyright (C) 2013 Free Software Foundation, Inc.
+License GPLv3+: GNU GPL version 3 or later <http://gnu.org/licenses/gpl.html>.
+This is free software: you are free to change and redistribute it.
+There is NO WARRANTY, to the extent permitted by law.
+
+Written by Elian Gidoni.
+ssh into remote server client-58 with ip 52.175.202.78 and execute command cd ~/superbowl; git pull origin sb2017; sudo service cron status; crontab -l; iperf -v; curl -V; traceroute --version
+From https://github.com/ephemeral2eternity/superbowl
+ * branch            sb2017     -> FETCH_HEAD
+   b6526cf..815dcb6  sb2017     -> origin/sb2017
+Updating b6526cf..815dcb6
+Fast-forward
+ cron_sb17_cloudclients | 2 +-
+ cron_sb17_planetlab    | 4 ++--
+ hosts.py               | 2 ++
+ 3 files changed, 5 insertions(+), 3 deletions(-)
+cron start/running, process 1171
+no crontab for 18757
+iperf version 2.0.5 (08 Jul 2010) pthreads
+curl 7.35.0 (x86_64-pc-linux-gnu) libcurl/7.35.0 OpenSSL/1.0.1f zlib/1.2.8 libidn/1.28 librtmp/2.3
+Protocols: dict file ftp ftps gopher http https imap imaps ldap ldaps pop3 pop3s rtmp rtsp smtp smtps telnet tftp 
+Features: AsynchDNS GSS-Negotiate IDN IPv6 Largefile NTLM NTLM_WB SSL libz TLS-SRP 
+traceroute (GNU inetutils) 1.9.2
+Copyright (C) 2013 Free Software Foundation, Inc.
+License GPLv3+: GNU GPL version 3 or later <http://gnu.org/licenses/gpl.html>.
+This is free software: you are free to change and redistribute it.
+There is NO WARRANTY, to the extent permitted by law.
+
+Written by Elian Gidoni.
+ssh into remote server client-68 with ip 52.175.208.242 and execute command cd ~/superbowl; git pull origin sb2017; sudo service cron status; crontab -l; iperf -v; curl -V; traceroute --version
+From https://github.com/ephemeral2eternity/superbowl
+ * branch            sb2017     -> FETCH_HEAD
+   b6526cf..815dcb6  sb2017     -> origin/sb2017
+Updating b6526cf..815dcb6
+Fast-forward
+ cron_sb17_cloudclients | 2 +-
+ cron_sb17_planetlab    | 4 ++--
+ hosts.py               | 2 ++
+ 3 files changed, 5 insertions(+), 3 deletions(-)
+cron start/running, process 1169
+no crontab for 18757
+iperf version 2.0.5 (08 Jul 2010) pthreads
+curl 7.35.0 (x86_64-pc-linux-gnu) libcurl/7.35.0 OpenSSL/1.0.1f zlib/1.2.8 libidn/1.28 librtmp/2.3
+Protocols: dict file ftp ftps gopher http https imap imaps ldap ldaps pop3 pop3s rtmp rtsp smtp smtps telnet tftp 
+Features: AsynchDNS GSS-Negotiate IDN IPv6 Largefile NTLM NTLM_WB SSL libz TLS-SRP 
+traceroute (GNU inetutils) 1.9.2
+Copyright (C) 2013 Free Software Foundation, Inc.
+License GPLv3+: GNU GPL version 3 or later <http://gnu.org/licenses/gpl.html>.
+This is free software: you are free to change and redistribute it.
+There is NO WARRANTY, to the extent permitted by law.
+
+Written by Elian Gidoni.
+ssh into remote server client-78 with ip 52.175.203.248 and execute command cd ~/superbowl; git pull origin sb2017; sudo service cron status; crontab -l; iperf -v; curl -V; traceroute --version
+From https://github.com/ephemeral2eternity/superbowl
+ * branch            sb2017     -> FETCH_HEAD
+   b6526cf..815dcb6  sb2017     -> origin/sb2017
+Updating b6526cf..815dcb6
+Fast-forward
+ cron_sb17_cloudclients | 2 +-
+ cron_sb17_planetlab    | 4 ++--
+ hosts.py               | 2 ++
+ 3 files changed, 5 insertions(+), 3 deletions(-)
+cron start/running, process 1165
+no crontab for 18757
+iperf version 2.0.5 (08 Jul 2010) pthreads
+curl 7.35.0 (x86_64-pc-linux-gnu) libcurl/7.35.0 OpenSSL/1.0.1f zlib/1.2.8 libidn/1.28 librtmp/2.3
+Protocols: dict file ftp ftps gopher http https imap imaps ldap ldaps pop3 pop3s rtmp rtsp smtp smtps telnet tftp 
+Features: AsynchDNS GSS-Negotiate IDN IPv6 Largefile NTLM NTLM_WB SSL libz TLS-SRP 
+traceroute (GNU inetutils) 1.9.2
+Copyright (C) 2013 Free Software Foundation, Inc.
+License GPLv3+: GNU GPL version 3 or later <http://gnu.org/licenses/gpl.html>.
+This is free software: you are free to change and redistribute it.
+There is NO WARRANTY, to the extent permitted by law.
+
+Written by Elian Gidoni.
+ssh into remote server client-88 with ip 52.175.202.24 and execute command cd ~/superbowl; git pull origin sb2017; sudo service cron status; crontab -l; iperf -v; curl -V; traceroute --version
+From https://github.com/ephemeral2eternity/superbowl
+ * branch            sb2017     -> FETCH_HEAD
+   b6526cf..815dcb6  sb2017     -> origin/sb2017
+Updating b6526cf..815dcb6
+Fast-forward
+ cron_sb17_cloudclients | 2 +-
+ cron_sb17_planetlab    | 4 ++--
+ hosts.py               | 2 ++
+ 3 files changed, 5 insertions(+), 3 deletions(-)
+cron start/running, process 1176
+no crontab for 18757
+iperf version 2.0.5 (08 Jul 2010) pthreads
+curl 7.35.0 (x86_64-pc-linux-gnu) libcurl/7.35.0 OpenSSL/1.0.1f zlib/1.2.8 libidn/1.28 librtmp/2.3
+Protocols: dict file ftp ftps gopher http https imap imaps ldap ldaps pop3 pop3s rtmp rtsp smtp smtps telnet tftp 
+Features: AsynchDNS GSS-Negotiate IDN IPv6 Largefile NTLM NTLM_WB SSL libz TLS-SRP 
+traceroute (GNU inetutils) 1.9.2
+Copyright (C) 2013 Free Software Foundation, Inc.
+License GPLv3+: GNU GPL version 3 or later <http://gnu.org/licenses/gpl.html>.
+This is free software: you are free to change and redistribute it.
+There is NO WARRANTY, to the extent permitted by law.
+
+Written by Elian Gidoni.
+ssh into remote server client-98 with ip 52.175.201.77 and execute command cd ~/superbowl; git pull origin sb2017; sudo service cron status; crontab -l; iperf -v; curl -V; traceroute --version
+From https://github.com/ephemeral2eternity/superbowl
+ * branch            sb2017     -> FETCH_HEAD
+   b6526cf..815dcb6  sb2017     -> origin/sb2017
+Updating b6526cf..815dcb6
+Fast-forward
+ cron_sb17_cloudclients | 2 +-
+ cron_sb17_planetlab    | 4 ++--
+ hosts.py               | 2 ++
+ 3 files changed, 5 insertions(+), 3 deletions(-)
+cron start/running, process 1160
+no crontab for 18757
+iperf version 2.0.5 (08 Jul 2010) pthreads
+curl 7.35.0 (x86_64-pc-linux-gnu) libcurl/7.35.0 OpenSSL/1.0.1f zlib/1.2.8 libidn/1.28 librtmp/2.3
+Protocols: dict file ftp ftps gopher http https imap imaps ldap ldaps pop3 pop3s rtmp rtsp smtp smtps telnet tftp 
+Features: AsynchDNS GSS-Negotiate IDN IPv6 Largefile NTLM NTLM_WB SSL libz TLS-SRP 
+traceroute (GNU inetutils) 1.9.2
+Copyright (C) 2013 Free Software Foundation, Inc.
+License GPLv3+: GNU GPL version 3 or later <http://gnu.org/licenses/gpl.html>.
+This is free software: you are free to change and redistribute it.
+There is NO WARRANTY, to the extent permitted by law.
+
+Written by Elian Gidoni.
+ssh into remote server gclient-01 with ip 104.155.167.146 and execute command cd ~/superbowl; git pull origin sb2017; sudo service cron status; crontab -l; iperf -v; curl -V; traceroute --version
+From https://github.com/ephemeral2eternity/superbowl
+ * branch            sb2017     -> FETCH_HEAD
+   b6526cf..815dcb6  sb2017     -> origin/sb2017
+Updating b6526cf..815dcb6
+Fast-forward
+ cron_sb17_cloudclients | 2 +-
+ cron_sb17_planetlab    | 4 ++--
+ hosts.py               | 2 ++
+ 3 files changed, 5 insertions(+), 3 deletions(-)
+cron start/running, process 1407
+no crontab for 18757
+iperf version 2.0.5 (08 Jul 2010) pthreads
+curl 7.35.0 (x86_64-pc-linux-gnu) libcurl/7.35.0 OpenSSL/1.0.1f zlib/1.2.8 libidn/1.28 librtmp/2.3
+Protocols: dict file ftp ftps gopher http https imap imaps ldap ldaps pop3 pop3s rtmp rtsp smtp smtps telnet tftp 
+Features: AsynchDNS GSS-Negotiate IDN IPv6 Largefile NTLM NTLM_WB SSL libz TLS-SRP 
+traceroute (GNU inetutils) 1.9.2
+Copyright (C) 2013 Free Software Foundation, Inc.
+License GPLv3+: GNU GPL version 3 or later <http://gnu.org/licenses/gpl.html>.
+This is free software: you are free to change and redistribute it.
+There is NO WARRANTY, to the extent permitted by law.
+
+Written by Elian Gidoni.
+ssh into remote server gclient-02 with ip 35.185.28.244 and execute command cd ~/superbowl; git pull origin sb2017; sudo service cron status; crontab -l; iperf -v; curl -V; traceroute --version
+From https://github.com/ephemeral2eternity/superbowl
+ * branch            sb2017     -> FETCH_HEAD
+   b6526cf..815dcb6  sb2017     -> origin/sb2017
+Updating b6526cf..815dcb6
+Fast-forward
+ cron_sb17_cloudclients | 2 +-
+ cron_sb17_planetlab    | 4 ++--
+ hosts.py               | 2 ++
+ 3 files changed, 5 insertions(+), 3 deletions(-)
+cron start/running, process 1614
+no crontab for 18757
+iperf version 2.0.5 (08 Jul 2010) pthreads
+curl 7.35.0 (x86_64-pc-linux-gnu) libcurl/7.35.0 OpenSSL/1.0.1f zlib/1.2.8 libidn/1.28 librtmp/2.3
+Protocols: dict file ftp ftps gopher http https imap imaps ldap ldaps pop3 pop3s rtmp rtsp smtp smtps telnet tftp 
+Features: AsynchDNS GSS-Negotiate IDN IPv6 Largefile NTLM NTLM_WB SSL libz TLS-SRP 
+traceroute (GNU inetutils) 1.9.2
+Copyright (C) 2013 Free Software Foundation, Inc.
+License GPLv3+: GNU GPL version 3 or later <http://gnu.org/licenses/gpl.html>.
+This is free software: you are free to change and redistribute it.
+There is NO WARRANTY, to the extent permitted by law.
+
+Written by Elian Gidoni.
+ssh into remote server gclient-03 with ip 104.196.238.195 and execute command cd ~/superbowl; git pull origin sb2017; sudo service cron status; crontab -l; iperf -v; curl -V; traceroute --version
+From https://github.com/ephemeral2eternity/superbowl
+ * branch            sb2017     -> FETCH_HEAD
+   b6526cf..815dcb6  sb2017     -> origin/sb2017
+Updating b6526cf..815dcb6
+Fast-forward
+ cron_sb17_cloudclients | 2 +-
+ cron_sb17_planetlab    | 4 ++--
+ hosts.py               | 2 ++
+ 3 files changed, 5 insertions(+), 3 deletions(-)
+cron start/running, process 1407
+no crontab for 18757
+iperf version 2.0.5 (08 Jul 2010) pthreads
+curl 7.35.0 (x86_64-pc-linux-gnu) libcurl/7.35.0 OpenSSL/1.0.1f zlib/1.2.8 libidn/1.28 librtmp/2.3
+Protocols: dict file ftp ftps gopher http https imap imaps ldap ldaps pop3 pop3s rtmp rtsp smtp smtps telnet tftp 
+Features: AsynchDNS GSS-Negotiate IDN IPv6 Largefile NTLM NTLM_WB SSL libz TLS-SRP 
+traceroute (GNU inetutils) 1.9.2
+Copyright (C) 2013 Free Software Foundation, Inc.
+License GPLv3+: GNU GPL version 3 or later <http://gnu.org/licenses/gpl.html>.
+This is free software: you are free to change and redistribute it.
+There is NO WARRANTY, to the extent permitted by law.
+
+Written by Elian Gidoni.

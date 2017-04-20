@@ -1,0 +1,664 @@
+ssh into remote server client-02 with ip 13.90.145.184 and execute command ~/superbowl/check_status.sh
+Probing sites timestamp:
+1486346889.59311
+Probing servers timestamp:
+1486346833.054909
+Traceroute servers timestamp:
+02060150.json
+END
+ssh into remote server client-12 with ip 13.90.148.79 and execute command ~/superbowl/check_status.sh
+Probing sites timestamp:
+1486346832.590767
+Probing servers timestamp:
+1486346889.805053
+Traceroute servers timestamp:
+02060150.json
+END
+ssh into remote server client-22 with ip 13.90.147.61 and execute command ~/superbowl/check_status.sh
+Probing sites timestamp:
+1486346833.009575
+Probing servers timestamp:
+1486346890.407009
+Traceroute servers timestamp:
+02060150.json
+END
+ssh into remote server client-32 with ip 13.90.145.80 and execute command ~/superbowl/check_status.sh
+Probing sites timestamp:
+1486346832.47742
+Probing servers timestamp:
+1486346889.213342
+Traceroute servers timestamp:
+02060150.json
+END
+ssh into remote server client-42 with ip 13.90.145.39 and execute command ~/superbowl/check_status.sh
+Probing sites timestamp:
+1486346889.524043
+Probing servers timestamp:
+1486346889.480117
+Traceroute servers timestamp:
+02060150.json
+END
+ssh into remote server client-52 with ip 13.90.148.181 and execute command ~/superbowl/check_status.sh
+Probing sites timestamp:
+1486346829.984411
+Probing servers timestamp:
+1486346855.900055
+Traceroute servers timestamp:
+02060150.json
+END
+ssh into remote server client-62 with ip 13.90.147.92 and execute command ~/superbowl/check_status.sh
+Probing sites timestamp:
+1486346889.278824
+Probing servers timestamp:
+1486346889.268264
+Traceroute servers timestamp:
+02060150.json
+END
+ssh into remote server client-72 with ip 13.90.146.25 and execute command ~/superbowl/check_status.sh
+Probing sites timestamp:
+1486346853.263392
+Probing servers timestamp:
+1486346889.239996
+Traceroute servers timestamp:
+02060150.json
+END
+ssh into remote server client-82 with ip 13.90.146.191 and execute command ~/superbowl/check_status.sh
+Probing sites timestamp:
+1486346889.986536
+Probing servers timestamp:
+1486346889.92777
+Traceroute servers timestamp:
+02060150.json
+END
+ssh into remote server client-92 with ip 13.90.147.35 and execute command ~/superbowl/check_status.sh
+Probing sites timestamp:
+1486346889.432926
+Probing servers timestamp:
+1486346889.436991
+Traceroute servers timestamp:
+02060150.json
+END
+ssh into remote server client-03 with ip 52.184.186.33 and execute command ~/superbowl/check_status.sh
+Probing sites timestamp:
+1486346889.23163
+Probing servers timestamp:
+1486346889.119898
+Traceroute servers timestamp:
+02060150.json
+END
+ssh into remote server client-13 with ip 52.184.186.39 and execute command ~/superbowl/check_status.sh
+Probing sites timestamp:
+1486346890.267815
+Probing servers timestamp:
+1486346890.060234
+Traceroute servers timestamp:
+02060150.json
+END
+ssh into remote server client-23 with ip 52.184.178.44 and execute command ~/superbowl/check_status.sh
+Probing sites timestamp:
+1486346889.555625
+Probing servers timestamp:
+1486346833.116254
+Traceroute servers timestamp:
+02060150.json
+END
+ssh into remote server client-33 with ip 52.184.176.200 and execute command ~/superbowl/check_status.sh
+Probing sites timestamp:
+1486346889.82131
+Probing servers timestamp:
+1486346889.81153
+Traceroute servers timestamp:
+02060150.json
+END
+ssh into remote server client-43 with ip 52.184.182.190 and execute command ~/superbowl/check_status.sh
+Probing sites timestamp:
+1486346890.106022
+Probing servers timestamp:
+1486346890.070394
+Traceroute servers timestamp:
+02060150.json
+END
+ssh into remote server client-53 with ip 52.184.181.30 and execute command ~/superbowl/check_status.sh
+Probing sites timestamp:
+1486346833.084312
+Probing servers timestamp:
+1486346889.246157
+Traceroute servers timestamp:
+02060150.json
+END
+ssh into remote server client-63 with ip 52.184.183.215 and execute command ~/superbowl/check_status.sh
+Probing sites timestamp:
+1486346889.335056
+Probing servers timestamp:
+1486346889.304708
+Traceroute servers timestamp:
+02060150.json
+END
+ssh into remote server client-73 with ip 52.184.177.54 and execute command ~/superbowl/check_status.sh
+Probing sites timestamp:
+1486346890.031512
+Probing servers timestamp:
+1486346890.045589
+Traceroute servers timestamp:
+02060150.json
+END
+ssh into remote server client-83 with ip 52.184.190.246 and execute command ~/superbowl/check_status.sh
+Probing sites timestamp:
+1486346889.936125
+Probing servers timestamp:
+1486346889.940314
+Traceroute servers timestamp:
+02060150.json
+END
+ssh into remote server client-93 with ip 52.184.179.6 and execute command ~/superbowl/check_status.sh
+Probing sites timestamp:
+1486346890.045381
+Probing servers timestamp:
+1486346890.024588
+Traceroute servers timestamp:
+02060150.json
+END
+ssh into remote server client-01 with ip 40.69.130.151 and execute command ~/superbowl/check_status.sh
+Probing sites timestamp:
+1486346890.021892
+Probing servers timestamp:
+1486346890.026168
+Traceroute servers timestamp:
+02060150.json
+END
+ssh into remote server client-11 with ip 40.69.131.165 and execute command ~/superbowl/check_status.sh
+Probing sites timestamp:
+1486346889.843638
+Probing servers timestamp:
+1486346942.856447
+Traceroute servers timestamp:
+02060150.json
+END
+ssh into remote server client-21 with ip 40.69.128.222 and execute command ~/superbowl/check_status.sh
+Probing sites timestamp:
+1486346889.66297
+Probing servers timestamp:
+1486346949.857002
+Traceroute servers timestamp:
+02060150.json
+END
+ssh into remote server client-31 with ip 40.69.131.181 and execute command ~/superbowl/check_status.sh
+Probing sites timestamp:
+1486346889.883679
+Probing servers timestamp:
+1486346949.730242
+Traceroute servers timestamp:
+02060150.json
+END
+ssh into remote server client-41 with ip 40.69.135.31 and execute command ~/superbowl/check_status.sh
+Probing sites timestamp:
+1486346889.744864
+Probing servers timestamp:
+1486346949.548905
+Traceroute servers timestamp:
+02060150.json
+END
+ssh into remote server client-51 with ip 40.69.128.221 and execute command ~/superbowl/check_status.sh
+Probing sites timestamp:
+1486346889.502726
+Probing servers timestamp:
+1486346949.636636
+Traceroute servers timestamp:
+02060150.json
+END
+ssh into remote server client-61 with ip 40.69.130.236 and execute command ~/superbowl/check_status.sh
+Probing sites timestamp:
+1486346833.015262
+Probing servers timestamp:
+1486346950.174392
+Traceroute servers timestamp:
+02060150.json
+END
+ssh into remote server client-71 with ip 40.69.132.115 and execute command ~/superbowl/check_status.sh
+Probing sites timestamp:
+1486346889.598477
+Probing servers timestamp:
+1486346949.416219
+Traceroute servers timestamp:
+02060150.json
+END
+ssh into remote server client-81 with ip 40.69.131.233 and execute command ~/superbowl/check_status.sh
+Probing sites timestamp:
+1486346889.868165
+Probing servers timestamp:
+1486346949.927384
+Traceroute servers timestamp:
+02060150.json
+END
+ssh into remote server client-91 with ip 40.69.131.131 and execute command ~/superbowl/check_status.sh
+Probing sites timestamp:
+1486346889.833049
+Probing servers timestamp:
+1486346949.864673
+Traceroute servers timestamp:
+02060150.json
+END
+ssh into remote server client-04 with ip 65.52.216.123 and execute command ~/superbowl/check_status.sh
+Probing sites timestamp:
+1486346889.900264
+Probing servers timestamp:
+1486346889.898685
+Traceroute servers timestamp:
+02060150.json
+END
+ssh into remote server client-14 with ip 65.52.209.0 and execute command ~/superbowl/check_status.sh
+Probing sites timestamp:
+1486346889.477109
+Probing servers timestamp:
+1486346949.305214
+Traceroute servers timestamp:
+02060150.json
+END
+ssh into remote server client-24 with ip 65.52.209.126 and execute command ~/superbowl/check_status.sh
+Probing sites timestamp:
+1486346889.243972
+Probing servers timestamp:
+1486346949.65069
+Traceroute servers timestamp:
+02060150.json
+END
+ssh into remote server client-34 with ip 23.96.251.163 and execute command ~/superbowl/check_status.sh
+Probing sites timestamp:
+1486346889.59357
+Probing servers timestamp:
+1486346949.477981
+Traceroute servers timestamp:
+02060150.json
+END
+ssh into remote server client-44 with ip 23.96.253.183 and execute command ~/superbowl/check_status.sh
+Probing sites timestamp:
+1486346888.706751
+Probing servers timestamp:
+1486346950.721645
+Traceroute servers timestamp:
+02060150.json
+END
+ssh into remote server client-54 with ip 23.96.249.69 and execute command ~/superbowl/check_status.sh
+Probing sites timestamp:
+1486346889.480588
+Probing servers timestamp:
+1486346949.579773
+Traceroute servers timestamp:
+02060150.json
+END
+ssh into remote server client-64 with ip 23.96.252.83 and execute command ~/superbowl/check_status.sh
+Probing sites timestamp:
+1486346890.855868
+Probing servers timestamp:
+1486346950.067216
+Traceroute servers timestamp:
+02060150.json
+END
+ssh into remote server client-74 with ip 23.96.248.160 and execute command ~/superbowl/check_status.sh
+Probing sites timestamp:
+1486346950.059143
+Probing servers timestamp:
+1486346950.056722
+Traceroute servers timestamp:
+02060150.json
+END
+ssh into remote server client-84 with ip 23.96.248.217 and execute command ~/superbowl/check_status.sh
+Probing sites timestamp:
+1486346889.482072
+Probing servers timestamp:
+1486346949.614952
+Traceroute servers timestamp:
+02060150.json
+END
+ssh into remote server client-94 with ip 23.96.248.187 and execute command ~/superbowl/check_status.sh
+Probing sites timestamp:
+1486346890.70009
+Probing servers timestamp:
+1486346949.610044
+Traceroute servers timestamp:
+02060150.json
+END
+ssh into remote server client-05 with ip 13.65.41.26 and execute command ~/superbowl/check_status.sh
+Probing sites timestamp:
+1486346889.596624
+Probing servers timestamp:
+1486346951.252501
+Traceroute servers timestamp:
+02060150.json
+END
+ssh into remote server client-15 with ip 40.124.13.43 and execute command ~/superbowl/check_status.sh
+Probing sites timestamp:
+1486346889.722197
+Probing servers timestamp:
+1486346949.536387
+Traceroute servers timestamp:
+02060150.json
+END
+ssh into remote server client-25 with ip 104.44.130.255 and execute command ~/superbowl/check_status.sh
+Probing sites timestamp:
+1486346889.603523
+Probing servers timestamp:
+1486346949.783036
+Traceroute servers timestamp:
+02060150.json
+END
+ssh into remote server client-35 with ip 70.37.164.86 and execute command ~/superbowl/check_status.sh
+Probing sites timestamp:
+1486346889.978353
+Probing servers timestamp:
+1486346949.325031
+Traceroute servers timestamp:
+02060150.json
+END
+ssh into remote server client-45 with ip 70.37.165.11 and execute command ~/superbowl/check_status.sh
+Probing sites timestamp:
+1486346890.093074
+Probing servers timestamp:
+1486346952.294136
+Traceroute servers timestamp:
+02060150.json
+END
+ssh into remote server client-55 with ip 70.37.162.200 and execute command ~/superbowl/check_status.sh
+Probing sites timestamp:
+1486346949.623233
+Probing servers timestamp:
+1486346949.478343
+Traceroute servers timestamp:
+02060150.json
+END
+ssh into remote server client-65 with ip 104.44.136.91 and execute command ~/superbowl/check_status.sh
+Probing sites timestamp:
+1486346949.403673
+Probing servers timestamp:
+1486346949.680957
+Traceroute servers timestamp:
+02060150.json
+END
+ssh into remote server client-75 with ip 104.214.110.50 and execute command ~/superbowl/check_status.sh
+Probing sites timestamp:
+1486346889.988893
+Probing servers timestamp:
+1486346949.774074
+Traceroute servers timestamp:
+02060150.json
+END
+ssh into remote server client-85 with ip 13.65.28.201 and execute command ~/superbowl/check_status.sh
+Probing sites timestamp:
+1486346950.522741
+Probing servers timestamp:
+1486346950.181452
+Traceroute servers timestamp:
+02060150.json
+END
+ssh into remote server client-95 with ip 40.84.199.96 and execute command ~/superbowl/check_status.sh
+Probing sites timestamp:
+1486346949.428182
+Probing servers timestamp:
+1486346949.789859
+Traceroute servers timestamp:
+02060150.json
+END
+ssh into remote server client-06 with ip 13.78.237.161 and execute command ~/superbowl/check_status.sh
+Probing sites timestamp:
+1486346950.581493
+Probing servers timestamp:
+1486346949.899499
+Traceroute servers timestamp:
+02060150.json
+END
+ssh into remote server client-16 with ip 52.161.17.188 and execute command ~/superbowl/check_status.sh
+Probing sites timestamp:
+1486346889.69689
+Probing servers timestamp:
+1486346889.346268
+Traceroute servers timestamp:
+02060150.json
+END
+ssh into remote server client-26 with ip 13.78.234.211 and execute command ~/superbowl/check_status.sh
+Probing sites timestamp:
+1486346950.040579
+Probing servers timestamp:
+1486346951.024119
+Traceroute servers timestamp:
+02060150.json
+END
+ssh into remote server client-36 with ip 13.78.237.212 and execute command ~/superbowl/check_status.sh
+Probing sites timestamp:
+1486346949.695127
+Probing servers timestamp:
+1486346890.223357
+Traceroute servers timestamp:
+02060150.json
+END
+ssh into remote server client-46 with ip 52.161.11.175 and execute command ~/superbowl/check_status.sh
+Probing sites timestamp:
+1486346949.541828
+Probing servers timestamp:
+1486346949.59045
+Traceroute servers timestamp:
+02060150.json
+END
+ssh into remote server client-56 with ip 13.78.225.154 and execute command ~/superbowl/check_status.sh
+Probing sites timestamp:
+1486346950.519218
+Probing servers timestamp:
+1486346950.402706
+Traceroute servers timestamp:
+02060150.json
+END
+ssh into remote server client-66 with ip 13.78.235.84 and execute command ~/superbowl/check_status.sh
+Probing sites timestamp:
+1486346951.112502
+Probing servers timestamp:
+1486346950.131311
+Traceroute servers timestamp:
+02060150.json
+END
+ssh into remote server client-76 with ip 13.78.225.182 and execute command ~/superbowl/check_status.sh
+Probing sites timestamp:
+1486346949.678774
+Probing servers timestamp:
+1486346949.670446
+Traceroute servers timestamp:
+02060150.json
+END
+ssh into remote server client-86 with ip 13.78.225.202 and execute command ~/superbowl/check_status.sh
+Probing sites timestamp:
+1486346949.942274
+Probing servers timestamp:
+1486346949.693814
+Traceroute servers timestamp:
+02060150.json
+END
+ssh into remote server client-96 with ip 13.78.225.223 and execute command ~/superbowl/check_status.sh
+Probing sites timestamp:
+1486346949.825993
+Probing servers timestamp:
+1486346949.977447
+Traceroute servers timestamp:
+02060150.json
+END
+ssh into remote server client-07 with ip 104.42.188.151 and execute command ~/superbowl/check_status.sh
+Probing sites timestamp:
+1486346950.3519
+Probing servers timestamp:
+1486346949.420041
+Traceroute servers timestamp:
+02060150.json
+END
+ssh into remote server client-17 with ip 13.91.95.191 and execute command ~/superbowl/check_status.sh
+Probing sites timestamp:
+1486346950.384872
+Probing servers timestamp:
+1486346950.311561
+Traceroute servers timestamp:
+02060150.json
+END
+ssh into remote server client-27 with ip 13.64.235.133 and execute command ~/superbowl/check_status.sh
+Probing sites timestamp:
+1486346949.334774
+Probing servers timestamp:
+1486347008.593545
+Traceroute servers timestamp:
+02060150.json
+END
+ssh into remote server client-37 with ip 13.91.94.45 and execute command ~/superbowl/check_status.sh
+Probing sites timestamp:
+1486346949.912561
+Probing servers timestamp:
+1486347009.749181
+Traceroute servers timestamp:
+02060150.json
+END
+ssh into remote server client-47 with ip 13.64.233.180 and execute command ~/superbowl/check_status.sh
+Probing sites timestamp:
+1486346889.595382
+Probing servers timestamp:
+1486347010.155753
+Traceroute servers timestamp:
+02060150.json
+END
+ssh into remote server client-57 with ip 13.64.237.178 and execute command ~/superbowl/check_status.sh
+Probing sites timestamp:
+1486346950.174514
+Probing servers timestamp:
+1486347009.935631
+Traceroute servers timestamp:
+02060150.json
+END
+ssh into remote server client-67 with ip 13.64.239.213 and execute command ~/superbowl/check_status.sh
+Probing sites timestamp:
+1486346949.944545
+Probing servers timestamp:
+1486347010.275979
+Traceroute servers timestamp:
+02060150.json
+END
+ssh into remote server client-77 with ip 13.88.184.52 and execute command ~/superbowl/check_status.sh
+Probing sites timestamp:
+1486346951.118145
+Probing servers timestamp:
+1486347010.190218
+Traceroute servers timestamp:
+02060150.json
+END
+ssh into remote server client-87 with ip 13.64.109.137 and execute command ~/superbowl/check_status.sh
+Probing sites timestamp:
+1486346892.250221
+Probing servers timestamp:
+1486347009.395
+Traceroute servers timestamp:
+02060150.json
+END
+ssh into remote server client-97 with ip 13.64.109.139 and execute command ~/superbowl/check_status.sh
+Probing sites timestamp:
+1486346832.992164
+Probing servers timestamp:
+1486347009.595168
+Traceroute servers timestamp:
+02060150.json
+END
+ssh into remote server client-08 with ip 52.183.56.49 and execute command ~/superbowl/check_status.sh
+Probing sites timestamp:
+1486346950.049491
+Probing servers timestamp:
+1486347010.009095
+Traceroute servers timestamp:
+02060150.json
+END
+ssh into remote server client-18 with ip 52.175.201.47 and execute command ~/superbowl/check_status.sh
+Probing sites timestamp:
+1486346889.229601
+Probing servers timestamp:
+1486347009.03753
+Traceroute servers timestamp:
+02060150.json
+END
+ssh into remote server client-28 with ip 52.175.211.57 and execute command ~/superbowl/check_status.sh
+Probing sites timestamp:
+1486346950.431426
+Probing servers timestamp:
+1486347010.065348
+Traceroute servers timestamp:
+02060150.json
+END
+ssh into remote server client-38 with ip 52.175.203.178 and execute command ~/superbowl/check_status.sh
+Probing sites timestamp:
+1486346949.969589
+Probing servers timestamp:
+1486347010.098749
+Traceroute servers timestamp:
+02060150.json
+END
+ssh into remote server client-48 with ip 52.175.205.221 and execute command ~/superbowl/check_status.sh
+Probing sites timestamp:
+1486346950.241756
+Probing servers timestamp:
+1486347009.571742
+Traceroute servers timestamp:
+02060150.json
+END
+ssh into remote server client-58 with ip 52.175.202.78 and execute command ~/superbowl/check_status.sh
+Probing sites timestamp:
+1486346885.157345
+Probing servers timestamp:
+1486347010.159465
+Traceroute servers timestamp:
+02060150.json
+END
+ssh into remote server client-68 with ip 52.175.208.242 and execute command ~/superbowl/check_status.sh
+Probing sites timestamp:
+1486346951.193801
+Probing servers timestamp:
+1486347009.578398
+Traceroute servers timestamp:
+02060150.json
+END
+ssh into remote server client-78 with ip 52.175.203.248 and execute command ~/superbowl/check_status.sh
+Probing sites timestamp:
+1486346949.271092
+Probing servers timestamp:
+1486347009.25718
+Traceroute servers timestamp:
+02060150.json
+END
+ssh into remote server client-88 with ip 52.175.202.24 and execute command ~/superbowl/check_status.sh
+Probing sites timestamp:
+1486346890.156533
+Probing servers timestamp:
+1486347033.875909
+Traceroute servers timestamp:
+02060150.json
+END
+ssh into remote server client-98 with ip 52.175.201.77 and execute command ~/superbowl/check_status.sh
+Probing sites timestamp:
+1486346950.283489
+Probing servers timestamp:
+1486347010.073006
+Traceroute servers timestamp:
+02060150.json
+END
+ssh into remote server gclient-01 with ip 104.155.167.146 and execute command ~/superbowl/check_status.sh
+Probing sites timestamp:
+1486347016.016348
+Probing servers timestamp:
+1486347016.045618
+Traceroute servers timestamp:
+02060200.json
+END
+ssh into remote server gclient-02 with ip 35.185.28.244 and execute command ~/superbowl/check_status.sh
+Probing sites timestamp:
+1486343409.257634
+Probing servers timestamp:
+1486329909.580413
+Traceroute servers timestamp:
+02060150.json
+END
+ssh into remote server gclient-03 with ip 104.196.238.195 and execute command ~/superbowl/check_status.sh
+Probing sites timestamp:
+1486347009.03246
+Probing servers timestamp:
+1486347009.42606
+Traceroute servers timestamp:
+02060200.json
+END

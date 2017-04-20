@@ -6,7 +6,7 @@ server-05,13.85.80.42,south-central-us
 server-06,13.78.236.216,west-central-us
 server-07,104.210.44.221,west-us
 server-08,52.183.56.41,west-us2
-gserver-01,104.197.165.32,us-central1-a
-gserver-02,104.196.11.109,us-east1-b
-gserver-03,104.199.127.170,us-west1-b
-aws-server,54.159.103.224,us-east-1b
+gserver-01,146.148.82.83,us-central1-a
+gserver-02,104.196.218.56,us-east1-b
+gserver-03,104.198.11.151,us-west1-b
+aws-server,52.90.121.155,us-west1-b

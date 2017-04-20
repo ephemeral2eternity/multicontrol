@@ -6,7 +6,7 @@ dstFile=$3
 # keyFile="/home/chenw/.ssh/chenw-theone"
 keyFile="/home/18757/.ssh/18757-s17"
 echo "Copy from location $srcFile to location $dstFile !"
-cat $f | while IFS=, read -r a b; do
+cat $f | while IFS=, read -r a b c; do
 	srvName=$a
 	srvIP=$b
 	if echo "$srcFile" |grep -q "@"; then
@@ -19,6 +19,9 @@ cat $f | while IFS=, read -r a b; do
 	else
 		full_dstFile=$dstFile
 	fi
-	echo "scp from $full_srcFile to $full_dstFile"
-	scp -r -i $keyFile $full_srcFile $full_dstFile
+	scpcmd="scp -r -i $keyFile $full_srcFile $full_dstFile"
+	echo $scpcmd
+	$scpcmd
+	# echo "scp from $full_srcFile to $full_dstFile"
+	# scp -r -i $keyFile $full_srcFile $full_dstFile
 done
