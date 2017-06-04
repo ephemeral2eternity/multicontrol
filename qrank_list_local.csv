@@ -1,6 +1,6 @@
-locator-02,40.117.35.106,anomalyLocator
-locator-03,13.93.223.198,anomalyLocator
-locator-04,23.96.248.142,anomalyLocator
-locator-06,13.94.154.128,anomalyLocator
-locator-09,13.78.81.193,anomalyLocator
-monitor,52.173.191.191,monitor-cmu-agens
+locator-01,40.85.176.145,anomalyLocator
+locator-02,137.135.47.194,anomalyLocator
+locator-03,52.173.201.114,anomalyLocator
+locator-04,52.174.27.235,anomalyLocator
+locator-05,40.74.86.252,anomalyLocator
+monitor,168.62.232.157,monitor-cmu-agens

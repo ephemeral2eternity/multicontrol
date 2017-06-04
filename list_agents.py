@@ -60,7 +60,7 @@ def list_agents(rg_name, prefix):
     return locators
 
 if __name__ == '__main__':
-    # locators = list_agents("agens", "locator-")
-    agents = list_agents("monitoring", "agent-")
-    # print(locators)
-    print(agents)
+    locators = list_agents("agens", "locator-")
+    # agents = list_agents("monitoring", "agent-")
+    print(locators)
+    # print(agents)
