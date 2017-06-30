@@ -61,6 +61,8 @@ def list_agents(rg_name, prefix):
 
 if __name__ == '__main__':
     locators = list_agents("agens", "locator-")
-    # agents = list_agents("monitoring", "agent-")
     print(locators)
+    # agents = list_agents("monitoring", "agent-")
     # print(agents)
+    # clients = list_agents("qrank", "client-")
+    # print(clients)

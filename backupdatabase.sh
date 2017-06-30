@@ -7,7 +7,7 @@ mkdir -p $localFolder
 cat $f | while IFS=, read -r a b c; do
 	srvName=$a
 	srvIP=$b
-	srvFolder=$c
+	srvFolder="anomalyLocator"
 	echo "ssh into remote server $srvName with ip $srvIP and execute command in folder $srvFolder"
 	cmd="cd ~/$srvFolder; python3 manage.py dumpdata --indent=4 -e sessions -e admin -e contenttypes -e auth --natural-foreign > ~/databaseBackup/$srvName-$suffix.json"
 	echo $cmd
