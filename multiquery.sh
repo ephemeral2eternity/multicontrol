@@ -1,7 +1,7 @@
 #!/bin/bash
 f=$1
 cmd=$2
-keyFile="/home/chenw/.ssh/chenw-theone"
+keyFile="~/.ssh/chenw-theone"
 cat $f | while IFS=, read -r a b c; do
 	srvName=$a
 	srvIP=$b
